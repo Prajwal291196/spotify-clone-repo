@@ -1,0 +1,129 @@
+{
+    "data": {
+      "episodeUnionV2": {
+        "__typename": "Episode",
+        "id": "55EWbmkVr8iDNmSyperh9o",
+        "uri": "spotify:episode:55EWbmkVr8iDNmSyperh9o",
+        "name": "How Skydiving Works",
+        "contents": [],
+        "htmlDescription": "<p>At 13,000 feet the ground is nothing but far-away squares of land, and you can even see some clouds below you. All of a sudden you find yourself plummeting downward. There are very few thrills like jumping out of a plane with a parachute.</p><p>See <a href=\"https://omnystudio.com/listener\" rel=\"nofollow\">omnystudio.com/listener</a> for privacy information.</p>",
+        "description": "At 13,000 feet the ground is nothing but far-away squares of land, and you can even see some clouds below you. All of a sudden you find yourself plummeting downward. There are very few thrills like jumping out of a plane with a parachute.See omnystudio.com/listener for privacy information.",
+        "coverArt": {
+          "sources": [
+            {
+              "url": "https://i.scdn.co/image/ab6765630000f68d863cc2d69ef7958af5cca4b5",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67656300005f1f863cc2d69ef7958af5cca4b5",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab6765630000ba8a863cc2d69ef7958af5cca4b5",
+              "width": 640,
+              "height": 640
+            }
+          ]
+        },
+        "creator": null,
+        "audio": {
+          "items": [
+            {
+              "url": "https://p.scdn.co/mp3-preview/a0e905c5434d5e66e3ea93689072fe4ab3b6c82f",
+              "format": "OGG_VORBIS_96",
+              "fileId": "a0e905c5434d5e66e3ea93689072fe4ab3b6c82f"
+            },
+            {
+              "url": "https://p.scdn.co/mp3-preview/4dddbec0462abe190e9c91476a558d0cfac47992",
+              "format": "AAC_24",
+              "fileId": "4dddbec0462abe190e9c91476a558d0cfac47992"
+            },
+            {
+              "url": "https://p.scdn.co/mp3-preview/745185bab0cf1b9d9851c203ed8d596d75838ebd",
+              "format": "MP4_128",
+              "fileId": "745185bab0cf1b9d9851c203ed8d596d75838ebd"
+            },
+            {
+              "url": "https://p.scdn.co/mp3-preview/24478037b503cf90e7d60481d432861b29cece86",
+              "format": "MP4_128_DUAL",
+              "fileId": "24478037b503cf90e7d60481d432861b29cece86"
+            },
+            {
+              "url": "https://p.scdn.co/mp3-preview/8e0aca934bee0f75e29db30c6bff71110ad4c07f",
+              "format": "MP4_128_CBCS",
+              "fileId": "8e0aca934bee0f75e29db30c6bff71110ad4c07f"
+            }
+          ]
+        },
+        "audioPreview": {
+          "url": "https://podz-content.spotifycdn.com/audio/clips/0ucKj6Oj8nazeoH0LSJmXC/clip_1286900_1357550.mp3",
+          "format": "MP3_96"
+        },
+        "duration": {
+          "totalMilliseconds": 3574386
+        },
+        "contentRating": {
+          "label": "NONE"
+        },
+        "releaseDate": {
+          "isoString": "2023-04-11T09:00:00Z"
+        },
+        "playedState": {
+          "playPositionMilliseconds": 0,
+          "state": "NOT_STARTED"
+        },
+        "mediaTypes": [
+          "AUDIO"
+        ],
+        "restrictions": {
+          "paywallContent": false
+        },
+        "playability": {
+          "playable": true,
+          "reason": "PLAYABLE",
+          "unplayabilityReasons": []
+        },
+        "sharingInfo": {
+          "shareUrl": "https://open.spotify.com/episode/55EWbmkVr8iDNmSyperh9o?si=Q9-Sp-8yQV6aZpAE37nRaw",
+          "shareId": "Q9-Sp-8yQV6aZpAE37nRaw"
+        },
+        "podcastV2": {
+          "data": {
+            "__typename": "Podcast",
+            "uri": "spotify:show:0ofXAdFIQQRsCYj9754UFx",
+            "name": "Stuff You Should Know",
+            "coverArt": {
+              "sources": [
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000f68d863cc2d69ef7958af5cca4b5",
+                  "width": 64,
+                  "height": 64
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab67656300005f1f863cc2d69ef7958af5cca4b5",
+                  "width": 300,
+                  "height": 300
+                },
+                {
+                  "url": "https://i.scdn.co/image/ab6765630000ba8a863cc2d69ef7958af5cca4b5",
+                  "width": 640,
+                  "height": 640
+                }
+              ]
+            },
+            "trailerV2": null,
+            "showTypes": []
+          }
+        },
+        "type": "PODCAST_EPISODE",
+        "segments": null,
+        "contentInformation": null,
+        "transcripts": {
+          "items": []
+        }
+      }
+    },
+    "extensions": []
+  }

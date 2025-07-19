@@ -1,0 +1,934 @@
+{
+    "data": {
+      "artist": {
+        "discography": {
+          "singles": {
+            "totalCount": 252,
+            "items": [
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "0KS0r2alQ5ftFRw3cOjnlP",
+                      "uri": "spotify:album:0KS0r2alQ5ftFRw3cOjnlP",
+                      "name": "Freak (Antoine Delvig Remix)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2023,
+                        "isoString": "2023-11-24T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e0206f22a614fab3c83bac5dbf1",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000485106f22a614fab3c83bac5dbf1",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b27306f22a614fab3c83bac5dbf1",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "i3QY2GfgT4OmoCC2UqC7Bg",
+                        "shareUrl": "https://open.spotify.com/album/0KS0r2alQ5ftFRw3cOjnlP?si=i3QY2GfgT4OmoCC2UqC7Bg"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "7nGM3tRAjPEMjDaLhL5Ys4",
+                      "uri": "spotify:album:7nGM3tRAjPEMjDaLhL5Ys4",
+                      "name": "Dance Alone",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2023,
+                        "isoString": "2023-10-20T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e024f29119f8ac710d367dc3c0e",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d000048514f29119f8ac710d367dc3c0e",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b2734f29119f8ac710d367dc3c0e",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "ryfJNiiZSrWAKS7w-YZPzg",
+                        "shareUrl": "https://open.spotify.com/album/7nGM3tRAjPEMjDaLhL5Ys4?si=ryfJNiiZSrWAKS7w-YZPzg"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "7birnR15eqi0260kJC7YQJ",
+                      "uri": "spotify:album:7birnR15eqi0260kJC7YQJ",
+                      "name": "Rock My Body (with Sash!) (Sonny Wern Remix)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2023,
+                        "isoString": "2023-09-09T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e0236694c2c26046b073aac5a6a",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000485136694c2c26046b073aac5a6a",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b27336694c2c26046b073aac5a6a",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "s0Z_GyLlRYSoO9BQxyf-UQ",
+                        "shareUrl": "https://open.spotify.com/album/7birnR15eqi0260kJC7YQJ?si=s0Z_GyLlRYSoO9BQxyf-UQ"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "5r3xdwoOa4PGENTeOnb23g",
+                      "uri": "spotify:album:5r3xdwoOa4PGENTeOnb23g",
+                      "name": "Rock My Body (The Remixes)",
+                      "type": "EP",
+                      "date": {
+                        "year": 2023,
+                        "isoString": "2023-09-08T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e028c83bbd25ab7064d72ae092a",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d000048518c83bbd25ab7064d72ae092a",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b2738c83bbd25ab7064d72ae092a",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "1I_4RnlaQJu0Sk06fdW-_A",
+                        "shareUrl": "https://open.spotify.com/album/5r3xdwoOa4PGENTeOnb23g?si=1I_4RnlaQJu0Sk06fdW-_A"
+                      },
+                      "tracks": {
+                        "totalCount": 10
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "3SaUdnTv61zvJ6RwHpUqWL",
+                      "uri": "spotify:album:3SaUdnTv61zvJ6RwHpUqWL",
+                      "name": "Bad Girls",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2023,
+                        "isoString": "2023-08-18T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e7734703d35a8daec55c7540",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851e7734703d35a8daec55c7540",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e7734703d35a8daec55c7540",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "Gceu1NypRymLR5t-U--_9Q",
+                        "shareUrl": "https://open.spotify.com/album/3SaUdnTv61zvJ6RwHpUqWL?si=Gceu1NypRymLR5t-U--_9Q"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "435wMn4soTVne8q2Ayjpj0",
+                      "uri": "spotify:album:435wMn4soTVne8q2Ayjpj0",
+                      "name": "Rock My Body (with SASH!) [W&W x R3HAB VIP Remix]",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2023,
+                        "isoString": "2023-08-11T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02c4388edba8d1feba9b17f290",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851c4388edba8d1feba9b17f290",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273c4388edba8d1feba9b17f290",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "7Uj1uy6CT_6K4Z1n9dc6KA",
+                        "shareUrl": "https://open.spotify.com/album/435wMn4soTVne8q2Ayjpj0?si=7Uj1uy6CT_6K4Z1n9dc6KA"
+                      },
+                      "tracks": {
+                        "totalCount": 2
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "5GbbjwLHtRH8qSB1LfkyVn",
+                      "uri": "spotify:album:5GbbjwLHtRH8qSB1LfkyVn",
+                      "name": "Freak",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2023,
+                        "isoString": "2023-07-28T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e0239af36d947aaa20aaaf4f30f",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000485139af36d947aaa20aaaf4f30f",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b27339af36d947aaa20aaaf4f30f",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "BleDpTxuSd29Fl0FQoavkQ",
+                        "shareUrl": "https://open.spotify.com/album/5GbbjwLHtRH8qSB1LfkyVn?si=BleDpTxuSd29Fl0FQoavkQ"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "4cSJGGLBvUJ1SOnk43Gy7a",
+                      "uri": "spotify:album:4cSJGGLBvUJ1SOnk43Gy7a",
+                      "name": "Party Songs",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2023,
+                        "isoString": "2023-06-09T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e0243e040050f6e7602d0dd1e0d",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000485143e040050f6e7602d0dd1e0d",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b27343e040050f6e7602d0dd1e0d",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "G0NdngTkQyKgN51-oxswTw",
+                        "shareUrl": "https://open.spotify.com/album/4cSJGGLBvUJ1SOnk43Gy7a?si=G0NdngTkQyKgN51-oxswTw"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "1ItxfUvQVlH7sAybyJ1SpB",
+                      "uri": "spotify:album:1ItxfUvQVlH7sAybyJ1SpB",
+                      "name": "Rock My Body (with INNA & Sash!)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2023,
+                        "isoString": "2023-04-28T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e0268eb565abb15fc77286076f8",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000485168eb565abb15fc77286076f8",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b27368eb565abb15fc77286076f8",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "e8B9IbpkT1yebYRQ6uX8YA",
+                        "shareUrl": "https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB?si=e8B9IbpkT1yebYRQ6uX8YA"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "5a4impdkoCNcyhc42qervc",
+                      "uri": "spotify:album:5a4impdkoCNcyhc42qervc",
+                      "name": "Just Dance #DQH2",
+                      "type": "EP",
+                      "date": {
+                        "year": 2023,
+                        "isoString": "2023-04-14T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02090c5d699b0031169fc3ce91",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851090c5d699b0031169fc3ce91",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273090c5d699b0031169fc3ce91",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "FPOwQRDeQPmnrGbcX9wgTg",
+                        "shareUrl": "https://open.spotify.com/album/5a4impdkoCNcyhc42qervc?si=FPOwQRDeQPmnrGbcX9wgTg"
+                      },
+                      "tracks": {
+                        "totalCount": 5
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "4ofey6tFX89zVipl1LKwhh",
+                      "uri": "spotify:album:4ofey6tFX89zVipl1LKwhh",
+                      "name": "My Crystal Nails",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2023,
+                        "isoString": "2023-03-17T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02746a8b051f11b2bc2245827f",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851746a8b051f11b2bc2245827f",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273746a8b051f11b2bc2245827f",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "QVt7P1sIQLyGW3kW6NhXAw",
+                        "shareUrl": "https://open.spotify.com/album/4ofey6tFX89zVipl1LKwhh?si=QVt7P1sIQLyGW3kW6NhXAw"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "3MQT2T0MAJA6lwMcEq3esV",
+                      "uri": "spotify:album:3MQT2T0MAJA6lwMcEq3esV",
+                      "name": "Just Dance #DQH1",
+                      "type": "EP",
+                      "date": {
+                        "year": 2023,
+                        "isoString": "2023-02-10T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b1ec558e4bc5a08adead3285",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851b1ec558e4bc5a08adead3285",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b1ec558e4bc5a08adead3285",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "I_SsoiJCT3-8JO05yDv2XA",
+                        "shareUrl": "https://open.spotify.com/album/3MQT2T0MAJA6lwMcEq3esV?si=I_SsoiJCT3-8JO05yDv2XA"
+                      },
+                      "tracks": {
+                        "totalCount": 6
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "74i2wXx4sHpyToSJA57YrD",
+                      "uri": "spotify:album:74i2wXx4sHpyToSJA57YrD",
+                      "name": "Yummy (with Dhurata Dora)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2023,
+                        "isoString": "2023-01-27T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02fb695a0a5b8d9bba6e207ccd",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851fb695a0a5b8d9bba6e207ccd",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273fb695a0a5b8d9bba6e207ccd",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "noZPrCTnQoieuP2jTNY5qg",
+                        "shareUrl": "https://open.spotify.com/album/74i2wXx4sHpyToSJA57YrD?si=noZPrCTnQoieuP2jTNY5qg"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "4UG1n2gfSEHrdpSySxNsnU",
+                      "uri": "spotify:album:4UG1n2gfSEHrdpSySxNsnU",
+                      "name": "Yummy (with Dhurata Dora & Stefflon Don)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2023,
+                        "isoString": "2023-01-27T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02d80e925d83b9f6c0d6de4fbf",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851d80e925d83b9f6c0d6de4fbf",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273d80e925d83b9f6c0d6de4fbf",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "K_7zAk7uTeGWD4YxuOC8gA",
+                        "shareUrl": "https://open.spotify.com/album/4UG1n2gfSEHrdpSySxNsnU?si=K_7zAk7uTeGWD4YxuOC8gA"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "15gVZQfXliOi80uCa4fbxc",
+                      "uri": "spotify:album:15gVZQfXliOi80uCa4fbxc",
+                      "name": "Yummy (with Stefflon Don)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2023,
+                        "isoString": "2023-01-06T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e0298f576241fdf9ec45df7a495",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000485198f576241fdf9ec45df7a495",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b27398f576241fdf9ec45df7a495",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "R7sceDjiTB-2YaQyoAmyxg",
+                        "shareUrl": "https://open.spotify.com/album/15gVZQfXliOi80uCa4fbxc?si=R7sceDjiTB-2YaQyoAmyxg"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "7H3R8bQJLS1oTiGzXq9KFW",
+                      "uri": "spotify:album:7H3R8bQJLS1oTiGzXq9KFW",
+                      "name": "Yummy (Mert Hakan & Onur Betin Remix)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2022,
+                        "isoString": "2022-12-09T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02c7b1c96d27ece420617fcf16",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851c7b1c96d27ece420617fcf16",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273c7b1c96d27ece420617fcf16",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "yQOyJRjNTL26IMg73iimXg",
+                        "shareUrl": "https://open.spotify.com/album/7H3R8bQJLS1oTiGzXq9KFW?si=yQOyJRjNTL26IMg73iimXg"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "7bX8fJsAHcsHIDgDFaP3u4",
+                      "uri": "spotify:album:7bX8fJsAHcsHIDgDFaP3u4",
+                      "name": "Yummy",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2022,
+                        "isoString": "2022-12-09T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02ed1627f365a1a2f3cbca37e2",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851ed1627f365a1a2f3cbca37e2",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273ed1627f365a1a2f3cbca37e2",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "vIG4JgTJSjiObEWV0byNJA",
+                        "shareUrl": "https://open.spotify.com/album/7bX8fJsAHcsHIDgDFaP3u4?si=vIG4JgTJSjiObEWV0byNJA"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "6nHzBvtQQsdGWXrLvZyMU9",
+                      "uri": "spotify:album:6nHzBvtQQsdGWXrLvZyMU9",
+                      "name": "Blow It Up",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2022,
+                        "isoString": "2022-10-28T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e021f0667525140eba0b6f9068c",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d000048511f0667525140eba0b6f9068c",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b2731f0667525140eba0b6f9068c",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "OuILL85RRQ6ymXFtD5yV4g",
+                        "shareUrl": "https://open.spotify.com/album/6nHzBvtQQsdGWXrLvZyMU9?si=OuILL85RRQ6ymXFtD5yV4g"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "1ez9K0s4OR2V0f8tttDv75",
+                      "uri": "spotify:album:1ez9K0s4OR2V0f8tttDv75",
+                      "name": "Hello Hello",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2022,
+                        "isoString": "2022-10-07T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02beb276e8ce6ce9d53cfff5c0",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851beb276e8ce6ce9d53cfff5c0",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273beb276e8ce6ce9d53cfff5c0",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "wFC3Tk_ITQG6vBpwhrkSfQ",
+                        "shareUrl": "https://open.spotify.com/album/1ez9K0s4OR2V0f8tttDv75?si=wFC3Tk_ITQG6vBpwhrkSfQ"
+                      },
+                      "tracks": {
+                        "totalCount": 1
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "releases": {
+                  "items": [
+                    {
+                      "id": "70GSvRwILjynWHs5qAcDPY",
+                      "uri": "spotify:album:70GSvRwILjynWHs5qAcDPY",
+                      "name": "Wherever You Go (with Reynmen)",
+                      "type": "SINGLE",
+                      "date": {
+                        "year": 2022,
+                        "isoString": "2022-08-26T00:00:00Z"
+                      },
+                      "coverArt": {
+                        "sources": [
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00001e02e59b6b12320b639a72c0f360",
+                            "width": 300,
+                            "height": 300
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d00004851e59b6b12320b639a72c0f360",
+                            "width": 64,
+                            "height": 64
+                          },
+                          {
+                            "url": "https://i.scdn.co/image/ab67616d0000b273e59b6b12320b639a72c0f360",
+                            "width": 640,
+                            "height": 640
+                          }
+                        ]
+                      },
+                      "playability": {
+                        "playable": true,
+                        "reason": "PLAYABLE"
+                      },
+                      "sharingInfo": {
+                        "shareId": "wBRrbIViTuujgpq_arJdSw",
+                        "shareUrl": "https://open.spotify.com/album/70GSvRwILjynWHs5qAcDPY?si=wBRrbIViTuujgpq_arJdSw"
+                      },
+                      "tracks": {
+                        "totalCount": 2
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "extensions": []
+  }

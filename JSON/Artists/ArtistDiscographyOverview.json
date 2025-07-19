@@ -1,0 +1,23 @@
+{
+    "data": {
+      "artist": {
+        "id": "2w9zwq3AktTeYYMuhMjju8",
+        "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8",
+        "profile": {
+          "name": "INNA"
+        },
+        "discography": {
+          "albums": {
+            "totalCount": 11
+          },
+          "singles": {
+            "totalCount": 252
+          },
+          "compilations": {
+            "totalCount": 1
+          }
+        }
+      }
+    },
+    "extensions": []
+  }

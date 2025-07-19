@@ -1,0 +1,98 @@
+{
+    "trackUri": "spotify:track:4WNcduiCmDNfmTEz7JvmLv",
+    "trackTitle": "In Control (feat. Selin)",
+    "roleCredits": [
+      {
+        "roleTitle": "Performers",
+        "artists": [
+          {
+            "uri": "spotify:artist:40Hr91B6wn9pO83Gj0JMrP",
+            "name": "Ali Arutan",
+            "imageUri": "https://i.scdn.co/image/ab677762000078e6afc079cda32d54850e82c385",
+            "subroles": [
+              "main artist"
+            ],
+            "weight": 0.8999000191688538
+          },
+          {
+            "uri": "spotify:artist:3t8WiyalpvnB9AObcMufiE",
+            "name": "Mahmut Orhan",
+            "imageUri": "https://i.scdn.co/image/ab677762000078e6d2b377637d9f6ed34f1652e2",
+            "subroles": [
+              "main artist"
+            ],
+            "weight": 0.8999999761581421
+          },
+          {
+            "uri": "spotify:artist:5xkqotsRPu6KQ4PiWjSGQf",
+            "name": "Selin",
+            "imageUri": "https://i.scdn.co/image/ab677762000078e6d2b377637d9f6ed34f1652e2",
+            "subroles": [
+              "main artist"
+            ],
+            "weight": 0.8998000025749207
+          }
+        ]
+      },
+      {
+        "roleTitle": "Writers",
+        "artists": [
+          {
+            "uri": "spotify:artist:40Hr91B6wn9pO83Gj0JMrP",
+            "name": "Ali Arutan",
+            "imageUri": "https://i.scdn.co/image/ab677762000078e6afc079cda32d54850e82c385",
+            "subroles": [
+              "composer"
+            ],
+            "weight": 0.6991999745368958
+          },
+          {
+            "uri": "spotify:artist:3t8WiyalpvnB9AObcMufiE",
+            "name": "Mahmut Orhan",
+            "imageUri": "https://i.scdn.co/image/ab677762000078e6d2b377637d9f6ed34f1652e2",
+            "subroles": [
+              "composer"
+            ],
+            "weight": 0.6991000175476074
+          },
+          {
+            "uri": "spotify:artist:01ejNJtgyZHUuuTsQrJA86",
+            "name": "Selin Gecit",
+            "imageUri": "https://i.scdn.co/image/ab677762000078e6afc079cda32d54850e82c385",
+            "subroles": [
+              "composer",
+              "lyricist"
+            ],
+            "weight": 0.6988999843597412
+          }
+        ]
+      },
+      {
+        "roleTitle": "Producers",
+        "artists": [
+          {
+            "uri": "spotify:artist:40Hr91B6wn9pO83Gj0JMrP",
+            "name": "Ali Arutan",
+            "imageUri": "https://i.scdn.co/image/ab677762000078e6afc079cda32d54850e82c385",
+            "subroles": [
+              "producer"
+            ],
+            "weight": 0.5497000217437744
+          },
+          {
+            "uri": "spotify:artist:3t8WiyalpvnB9AObcMufiE",
+            "name": "Mahmut Orhan",
+            "imageUri": "https://i.scdn.co/image/ab677762000078e6d2b377637d9f6ed34f1652e2",
+            "subroles": [
+              "producer"
+            ],
+            "weight": 0.5496000051498413
+          }
+        ]
+      }
+    ],
+    "extendedCredits": [],
+    "sourceNames": [
+      "Ultra Records"
+    ]
+  }

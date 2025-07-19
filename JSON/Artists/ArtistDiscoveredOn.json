@@ -1,0 +1,1179 @@
+{
+    "data": {
+      "artist": {
+        "id": "2w9zwq3AktTeYYMuhMjju8",
+        "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8",
+        "profile": {
+          "name": "INNA"
+        },
+        "relatedContent": {
+          "discoveredOn": {
+            "totalCount": 91,
+            "items": [
+              {
+                "uri": "spotify:playlist:37i9dQZF1DXaXB8fQg7xif",
+                "id": "37i9dQZF1DXaXB8fQg7xif",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Dance Party",
+                "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> to the rhythm and move your feet!",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f00000002bee0bf3fd30b5317734205ab",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DXdxcBWuJkbcy",
+                "id": "37i9dQZF1DXdxcBWuJkbcy",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Motivation Mix",
+                "description": "Uplifting and energetic music that helps you stay motivated.",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f000000025f2635e031078672e7b384a5",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DX0BcQWzuB7ZO",
+                "id": "37i9dQZF1DX0BcQWzuB7ZO",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Dance Hits",
+                "description": "All the <a href=\"spotify:genre:edm_dance\">big ones</a> with Creeds",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f0000000223728194acce68a135b2941b",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DXdDh4h59PJIQ",
+                "id": "37i9dQZF1DXdDh4h59PJIQ",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Electrónica & Dance Music",
+                "description": "¡Estos son los hits de la electrónica en el 2023!",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f000000022bab08cc608f77ca29145a46",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DX7ZUug1ANKRP",
+                "id": "37i9dQZF1DX7ZUug1ANKRP",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Main Stage",
+                "description": "The biggest Dance hits and the ones to come. Cover: Nicolas Julian",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f00000002344d04c261a9ab6181ed0b20",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DXdPec7aLTmlC",
+                "id": "37i9dQZF1DXdPec7aLTmlC",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Happy Hits!",
+                "description": "Hits to boost your mood and fill you with happiness!",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f00000002b55b6074da1d43715fc16d6d",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DX32NsLKyzScr",
+                "id": "37i9dQZF1DX32NsLKyzScr",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Power Hour",
+                "description": "Tap it back or go for a spin with these uptempo tracks!",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f00000002cb23f54d979311c1f323a056",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DX35X4JNyBWtb",
+                "id": "37i9dQZF1DX35X4JNyBWtb",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Energy Booster: Dance",
+                "description": "Need to get your energy level up?",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f000000021b9e7d55824e5d5fb81875bf",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:7mZZkjpyoY83wHbssEtzNF",
+                "id": "7mZZkjpyoY83wHbssEtzNF",
+                "owner": {
+                  "name": "LoudKult"
+                },
+                "name": "GYM MUSIC HITS 2023 🏋️ GYM WORKOUT BEATS",
+                "description": "The biggest gym playlist on spotify!  Hardstyle - Best Workout Mix - Best gym Playlist. Techno Music - Hardstyle - Bass House - Electro house ",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706c0000da84f59dd568d149c4fd2eb814c0",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DWZ7eJRBxKzdO",
+                "id": "37i9dQZF1DWZ7eJRBxKzdO",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Summer Dance Hits 2024",
+                "description": "The summer needs dance hits 😎☀️",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f000000023ff395d03138d858c532c64e",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:1QNIPdWMxKHBYED5ZXfNVU",
+                "id": "1QNIPdWMxKHBYED5ZXfNVU",
+                "owner": {
+                  "name": "Future House Cloud"
+                },
+                "name": "Car Music",
+                "description": "Get ready for the best car music of 2023! 🚗 Updated weekly, this playlist is perfect for driving, gaming, the gym, dancing, and parties. Featuring EDM, Slap House, Brazilian Bass, Techno, and Deep House genres, enjoy tracks from David Guetta, Tiesto, Meduza, Robin Schulz, Alok and Calvin Harris.🔥",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706c0000da84d8ecc443cf4e959a09813370",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:2IktzPZSnJVA4gEG7kzC4O",
+                "id": "2IktzPZSnJVA4gEG7kzC4O",
+                "owner": {
+                  "name": "Phonix Lab"
+                },
+                "name": "Running Motivation 2023",
+                "description": "Run better, run faster.",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706c0000da84ebb6ae6e452c5061ca5643f1",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:7c8YrzHlapYbk3OpZYi31K",
+                "id": "7c8YrzHlapYbk3OpZYi31K",
+                "owner": {
+                  "name": "Academia"
+                },
+                "name": "Academia 2024 (Atualizada Cada Semana)",
+                "description": "Academia 2024 (Atualizada Cada Semana) - Treino - Malhar",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706c0000da847fbe709262c743f69d60e161",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DX39mId53VASc",
+                "id": "37i9dQZF1DX39mId53VASc",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Motivation pour le sport",
+                "description": "Les meilleurs hits pour accompagner votre séance de sport !",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f0000000211bd1ea7ae0bb32b0e900a6f",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DXcx1szy2g67M",
+                "id": "37i9dQZF1DXcx1szy2g67M",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Winter '23",
+                "description": "Niks aan te doen, Winter 2023 is coming! ",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f00000002f2338153122480fcf814c326",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:3RxJQGGhaS71GGUNuYEQns",
+                "id": "3RxJQGGhaS71GGUNuYEQns",
+                "owner": {
+                  "name": "hotamazingnetwork"
+                },
+                "name": "ELECTRONICA PARA FIESTAS 2023 🔥 EXITOS",
+                "description": "ELECTRONICA PARA FIESTAS 2023 🔥 EXITOS : VERANO 2023 MIX 🌴☀️  La Mejor Música Electrónica 2023 | ENGANCHADO FIESTA 2022 &amp; 2023 : MUSICA LOS MAS ESCUCHADOS : LA PLAYA : CHILL : LOUNGE : BRAZIL HITS : PORTUGAL : SPANISH HITS : DANCE MIX 2023 🌴Melhores Na Balada Jovem Pan 2023🌱Musicas Electronicas 🌱Alok",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706c0000da841d74ed0906e2c96a5b68ee6b",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DWYAaAF4glatK",
+                "id": "37i9dQZF1DWYAaAF4glatK",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Summer Hits",
+                "description": "La playlist de ton été 2023 ! 🌞",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f000000023367a55839cfd6f50b1b023e",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DWU8quswnFt3c",
+                "id": "37i9dQZF1DWU8quswnFt3c",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "EQUAL Global: Top Artists 2023",
+                "description": "Listen to the most streamed artists from EQUAL Global in 2023, at full volume. Cover: INNA",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f00000002fd0d8e2ee53c67dd60331715",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:5cAwvaSXeNSrSbmrOUSBzo",
+                "id": "5cAwvaSXeNSrSbmrOUSBzo",
+                "owner": {
+                  "name": "CHAPTER EIGHT"
+                },
+                "name": "GYM MOTIVATION 2024",
+                "description": "GYM PHONK PUMP SONGS MOTIVATION 2024 WORKOUT MUSIC MOTIVATION SPORT FITNESS CARDIO LIFTING WEIGHTS TRAINING TREINING TREINO RUNNING RUN BEAST MODE HYPE   BODY PUMP FATBURNER HOT IRON CYCLING GYMNASTICS JOGGING MUSCLE SIT UPS WARM UP GET FIT EXERCISE BASKETBALL STRENGTH HIIT",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706c0000da8480ad17a58d7639ef3da48d2f",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:5ZgnTlYPLATJiTg9yTgppb",
+                "id": "5ZgnTlYPLATJiTg9yTgppb",
+                "owner": {
+                  "name": "Dimitri Vegas & Like Mike"
+                },
+                "name": "Tomorrowland Official Playlist",
+                "description": "The list with your favorite Tomorrowland 2023 festival anthems handpicked by Dimitri Vegas &amp; Like Mike! Including Tiësto, Martin Jensen &amp; MATTN, Mau P, Lost Frequencies and many more!",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706c0000da8408473fe5cb0d26975493d79f",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DXc6IFF23C9jj",
+                "id": "37i9dQZF1DXc6IFF23C9jj",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Top Hits of 2010",
+                "description": "Rewind and rediscover big songs of 2010. Cover: Bruno Mars",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f0000000258e7e15fbf1e311b255fb3bb",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DX2ENAPP1Tyed",
+                "id": "37i9dQZF1DX2ENAPP1Tyed",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "dance room 2023",
+                "description": "Fred again.. in cover di dance room questa settimana! E novità di Alan Walker, Prezioso e tanti altri.",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f00000002c4e5f67475886dea94a62278",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DX5FlZmJ3JWL1",
+                "id": "37i9dQZF1DX5FlZmJ3JWL1",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Fit Beats ",
+                "description": "Let's go! 💪 ",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f00000002ae2d1e46d846d05aaa8f2e3c",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO1ru5u8",
+                "id": "37i9dQZF1DZ06evO1ru5u8",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "This Is INNA",
+                "description": "This is INNA. The essential tracks, all in one playlist.",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO1ru5u8-default.jpg",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DX3d2wagqzwmM",
+                "id": "37i9dQZF1DX3d2wagqzwmM",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Big Room Dance",
+                "description": "Big rooms and big sounds. Cover: Hardwell & Afrojack",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f00000002becb06d4624ecfa81d53aeb1",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:2237sMNMlXS4wWLgdQ1UuV",
+                "id": "2237sMNMlXS4wWLgdQ1UuV",
+                "owner": {
+                  "name": "Workout Music"
+                },
+                "name": "Workout Motivation 2024 💪",
+                "description": "These songs will get you motivated! The best playlist on Spotify for your Workouts (at home). Gym, Fitness , Cardio, WORKOUT, WORK OUT, Workout. Follow and get motivated 💪🏆",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706c0000da84fe38c6a0037b742179aa6317",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DX4pq3ejIlJu2",
+                "id": "37i9dQZF1DX4pq3ejIlJu2",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Bardzo dobry dzień!",
+                "description": "Twoje ulubione piosenki, te starsze i te najnowsze.",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f0000000251608ab85f71b62a369e2962",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DX1kfybUJZB6S",
+                "id": "37i9dQZF1DX1kfybUJZB6S",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Hot Hits BE",
+                "description": "50 Hits van dit moment - 50 hits du moment. Cover: Noah Kahan",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f00000002b6ff85873a308002917ce123",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DWUn2FwhH1fMF",
+                "id": "37i9dQZF1DWUn2FwhH1fMF",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "mint Presents Best Dance Songs of 2023",
+                "description": "The best dance songs from around the world of 2023. Cover: Peggy Gou",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f000000026398240cfffb719a9d39d6b3",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DX8a1tdzq5tbM",
+                "id": "37i9dQZF1DX8a1tdzq5tbM",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Dance Classics",
+                "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f000000022da2d07c587623848d44b52d",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:6q9akb3PQPX07Uw6roH76X",
+                "id": "6q9akb3PQPX07Uw6roH76X",
+                "owner": {
+                  "name": "bounceandbass"
+                },
+                "name": "Techno Remix Songs 2023 | Tekkno Ravetok ",
+                "description": "Best Techno TikTok Music Remixes of popular songs, Featuring the Best and Most Viral TECHNO Hits 2023 Mondello Let's Get FKD UP - Eyes Don't Lie Valexus Techno Remix - DOMII - All I Want For Christmas Is You Techno Remix - Vois Sur Ton Chemin",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706c0000da849235a6ac3be18884e29b4ab3",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:0MJjDVvC20xinTETjoZrvM",
+                "id": "0MJjDVvC20xinTETjoZrvM",
+                "owner": {
+                  "name": "Erick 🇧🇷"
+                },
+                "name": "ELETRÔNICAS 2023 As Melhores 💥 \\_(ª.ª)_/💥",
+                "description": "Mais Tocadas 2023 - O Melhor do Eletrônico  - Eletrônicas Brasileiras - Eletrônicas Pancadas - Mix Eletrônico - Músicas Eletrônicas - Vintage Culture - Alok - KVSH - Deep House - Slap House - Brazilian Bass - Club Mix - Dance Party - Atualizada semanalmente 💥",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706c0000da844543dcdee51644ec6086c570",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:4cgeOaRCHDkVDQPaDrRQFR",
+                "id": "4cgeOaRCHDkVDQPaDrRQFR",
+                "owner": {
+                  "name": "LoudKult"
+                },
+                "name": "Running Music 2023 Workout Motivation",
+                "description": "Running Songs - Running Music Hits - Songs to run to - Run Music - Running playlist - Electronic Running - Motivation Mix - Treino - Musica para correr -  Deep House Covers",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706c0000da845ccd0896ef554c0a25d4c2a4",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DWSj4n2q6ZYVe",
+                "id": "37i9dQZF1DWSj4n2q6ZYVe",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Dance Hits 2000s",
+                "description": "The biggest dance floor bangers of the 2000s.",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f0000000212c912c1c9efca71c438a11c",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DX6e7ijUUjT0E",
+                "id": "37i9dQZF1DX6e7ijUUjT0E",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Alta Intensità",
+                "description": "Allenamento o prepartita, la playlist dance perfetta per darti la carica.",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f00000002105a64f74a1f04bd7599f69c",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DX1kCIzMYtzum",
+                "id": "37i9dQZF1DX1kCIzMYtzum",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "EDM 2024",
+                "description": "Home is where the main stage is. 💗",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f00000002d726493b531d4e8f6910a969",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DX5cc7vmfioLh",
+                "id": "37i9dQZF1DX5cc7vmfioLh",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Yabancı Pop",
+                "description": "Hit pop trendleri. Kapak: Tyla",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f0000000287ab84bf947430aad8ecf235",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DWUMDyKd0qQIL",
+                "id": "37i9dQZF1DWUMDyKd0qQIL",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Sous la douche",
+                "description": "Lancez la playlist et jetez vous à l'eau !",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f000000026362e2e68f9a3998b57af933",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:0ksTV5L6A275TlXiLlwds0",
+                "id": "0ksTV5L6A275TlXiLlwds0",
+                "owner": {
+                  "name": "Zumbafy"
+                },
+                "name": "Summer eletrohits 2006-2023",
+                "description": "summer eletro",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://mosaic.scdn.co/640/ab67616d00001e028d8aeb06bc64c6b1c7b5b485ab67616d00001e02c696585f63c62c19d415d5f5ab67616d00001e02da31d106b6a896972adec689ab67616d00001e02f45c50e7cff5f2376c1e36ea",
+                          "width": 640,
+                          "height": 640
+                        },
+                        {
+                          "url": "https://mosaic.scdn.co/300/ab67616d00001e028d8aeb06bc64c6b1c7b5b485ab67616d00001e02c696585f63c62c19d415d5f5ab67616d00001e02da31d106b6a896972adec689ab67616d00001e02f45c50e7cff5f2376c1e36ea",
+                          "width": 300,
+                          "height": 300
+                        },
+                        {
+                          "url": "https://mosaic.scdn.co/60/ab67616d00001e028d8aeb06bc64c6b1c7b5b485ab67616d00001e02c696585f63c62c19d415d5f5ab67616d00001e02da31d106b6a896972adec689ab67616d00001e02f45c50e7cff5f2376c1e36ea",
+                          "width": 60,
+                          "height": 60
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:6lre0An0V7YFE1HJUnMgnE",
+                "id": "6lre0An0V7YFE1HJUnMgnE",
+                "owner": {
+                  "name": "Unplugged"
+                },
+                "name": "Party Songs 2023 🎉 Dance all Night",
+                "description": "Best songs to dance your ass off till morning.",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706c0000da8488f7d43f34130e153188d5f2",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:31ot9dglNeVWIXwNZ7c3TG",
+                "id": "31ot9dglNeVWIXwNZ7c3TG",
+                "owner": {
+                  "name": "Christopher"
+                },
+                "name": "Hardstyle Remix of Popular Songs ",
+                "description": "Hardstyle Bangers, Amazing Remixes, Workout Music, GymTok! Dm hardstyle_remix_playlist",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706c0000da8443a6ad103f4637ed6b0db2af",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DX1OxnjWYRVU0",
+                "id": "37i9dQZF1DX1OxnjWYRVU0",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Dance Covers",
+                "description": "New takes on old classics!",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f000000028729b65a3437056bc5547976",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DWVciwe52Zt0R",
+                "id": "37i9dQZF1DWVciwe52Zt0R",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Workout Hits",
+                "description": "Current and recent hits for your workout.",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f000000028c01cd68c20590e60c130f39",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:6rkZzuLbq5LbbFl3u0nTxf",
+                "id": "6rkZzuLbq5LbbFl3u0nTxf",
+                "owner": {
+                  "name": "Bass Music Girl"
+                },
+                "name": "Sport Motivation Music 2024 💪 🏋️",
+                "description": "Discover my sport motivation playlist: a high-energy, dance-infused compilation that helps me a lot during my workouts. I hope it motivates you as well! Follow this playlist to show me that you like it! I will update the list often :)",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706c0000da84790e3ead4d2b47f9e45e30f0",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DWX7rdRjOECPW",
+                "id": "37i9dQZF1DWX7rdRjOECPW",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Sommerhits 2023",
+                "description": "Sommer, Sonne, Lieblingshits  ☀️",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f00000002b8e78b853666086185fbd607",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DXddEJk8r6QZZ",
+                "id": "37i9dQZF1DXddEJk8r6QZZ",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Hits du Moment : Best of 2023",
+                "description": "Le meilleur de la première playlist de France en 2023. Photo : Miley Cyrus\n",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f00000002dc2c68db38ce5197b36be4a0",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DX9Bom9R0tCgx",
+                "id": "37i9dQZF1DX9Bom9R0tCgx",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Bass Explosion",
+                "description": "All the stuff that will blow your speakers!",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f000000022b27c05566086769d6edf93a",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:7ke8MsoH2gF3zNguHGKU38",
+                "id": "7ke8MsoH2gF3zNguHGKU38",
+                "owner": {
+                  "name": "CHAPTER EIGHT"
+                },
+                "name": "TRAINING MOTIVATION 2024",
+                "description": "TRAINING MOTIVATION 2024 TRAINING SONGS HEAVY WORKOUT HEAVY TRAINING TREINO 2023 GYM MOTIVATION SONGS GYM MUSIC HEAVY GYM SONGS CARDIO HITT TRAINING PHONK HIIT WORKOUT HIGH INTENSITY INTERVAL TRAINING",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706c0000da84a5841fb8fc79c2c788666b7d",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DWZQaaqNMbbXa",
+                "id": "37i9dQZF1DWZQaaqNMbbXa",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Dance Pop Hits",
+                "description": "Hit the dance floor with your favorite bops!",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f000000021deebf75d5abd0f11a3cea52",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:6ubTtoDTzzYMt9ju8L7uas",
+                "id": "6ubTtoDTzzYMt9ju8L7uas",
+                "owner": {
+                  "name": "HOPE 95"
+                },
+                "name": "Alok 2023 ⚡ Melhores Músicas Eletronicas",
+                "description": "<a href=\"https://open.spotify.com/playlist/4s7XRQNjPCQY3lovbbgZZ0?si=d083cc7dc1e944b3\">Clique no 💚</a> ouça as Melhores Eletrônicas Brasil: Alok As Melhores e Lançamentos! Dont Say Goodbye, Eletronicos BR, Música Eletro para Festas, Vintage Culture e os melhores DJs!",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706c0000da843f135513e8d75e5c60b0ae30",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "extensions": []
+  }

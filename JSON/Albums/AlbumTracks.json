@@ -1,0 +1,349 @@
+{
+    "data": {
+      "album": {
+        "playability": {
+          "playable": true
+        },
+        "tracks": {
+          "totalCount": 10,
+          "items": [
+            {
+              "uid": "3d026f76adb5928f0e59",
+              "track": {
+                "saved": false,
+                "uri": "spotify:track:5jvhTc0g18kwYQNUJM5C4e",
+                "name": "Makina",
+                "playcount": "108639926",
+                "discNumber": 1,
+                "trackNumber": 1,
+                "contentRating": {
+                  "label": "EXPLICIT"
+                },
+                "relinkingInformation": null,
+                "duration": {
+                  "totalMilliseconds": 211016
+                },
+                "playability": {
+                  "playable": true
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "uri": "spotify:artist:51DevdOxIJin6DB1FXJpD1",
+                      "profile": {
+                        "name": "UZI"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "uid": "419656ce995b7d2148d1",
+              "track": {
+                "saved": false,
+                "uri": "spotify:track:72t3CRd8YEFrlc3x0OVaob",
+                "name": "Umrumda Değil",
+                "playcount": "132081980",
+                "discNumber": 1,
+                "trackNumber": 2,
+                "contentRating": {
+                  "label": "EXPLICIT"
+                },
+                "relinkingInformation": null,
+                "duration": {
+                  "totalMilliseconds": 185458
+                },
+                "playability": {
+                  "playable": true
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "uri": "spotify:artist:51DevdOxIJin6DB1FXJpD1",
+                      "profile": {
+                        "name": "UZI"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "uid": "dbfa6b79b176daea3899",
+              "track": {
+                "saved": false,
+                "uri": "spotify:track:5TkQatzJqKafPgHQerZ0dL",
+                "name": "Gecenin Içine Gir",
+                "playcount": "20013416",
+                "discNumber": 1,
+                "trackNumber": 3,
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "relinkingInformation": null,
+                "duration": {
+                  "totalMilliseconds": 200000
+                },
+                "playability": {
+                  "playable": true
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "uri": "spotify:artist:51DevdOxIJin6DB1FXJpD1",
+                      "profile": {
+                        "name": "UZI"
+                      }
+                    },
+                    {
+                      "uri": "spotify:artist:3BVPc9s4JXzM6O1InlLxED",
+                      "profile": {
+                        "name": "Mavi"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "uid": "58f3989f6fdefaf1c9be",
+              "track": {
+                "saved": false,
+                "uri": "spotify:track:6IW5ocUH5DRWagxkLTlbUS",
+                "name": "Nedenini Sorma",
+                "playcount": "30427067",
+                "discNumber": 1,
+                "trackNumber": 4,
+                "contentRating": {
+                  "label": "EXPLICIT"
+                },
+                "relinkingInformation": null,
+                "duration": {
+                  "totalMilliseconds": 243205
+                },
+                "playability": {
+                  "playable": true
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "uri": "spotify:artist:51DevdOxIJin6DB1FXJpD1",
+                      "profile": {
+                        "name": "UZI"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "uid": "15dadc3ce6fa19b40977",
+              "track": {
+                "saved": false,
+                "uri": "spotify:track:1ijjjMFlM3Pe8t3ykXBzxk",
+                "name": "Mahalle",
+                "playcount": "14155746",
+                "discNumber": 1,
+                "trackNumber": 5,
+                "contentRating": {
+                  "label": "EXPLICIT"
+                },
+                "relinkingInformation": null,
+                "duration": {
+                  "totalMilliseconds": 152301
+                },
+                "playability": {
+                  "playable": true
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "uri": "spotify:artist:51DevdOxIJin6DB1FXJpD1",
+                      "profile": {
+                        "name": "UZI"
+                      }
+                    },
+                    {
+                      "uri": "spotify:artist:7GaMopkesD4KK9dNbgyO5D",
+                      "profile": {
+                        "name": "Eko Fresh"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "uid": "d465e72cf8573ced392a",
+              "track": {
+                "saved": false,
+                "uri": "spotify:track:4a1WLOoydq7u011UG9jjC9",
+                "name": "Krvn",
+                "playcount": "122806770",
+                "discNumber": 1,
+                "trackNumber": 6,
+                "contentRating": {
+                  "label": "EXPLICIT"
+                },
+                "relinkingInformation": null,
+                "duration": {
+                  "totalMilliseconds": 171880
+                },
+                "playability": {
+                  "playable": true
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "uri": "spotify:artist:51DevdOxIJin6DB1FXJpD1",
+                      "profile": {
+                        "name": "UZI"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "uid": "b13b0f5f5cc4e9cb104a",
+              "track": {
+                "saved": false,
+                "uri": "spotify:track:4hy4nY2PiYWx8qVXjpky3P",
+                "name": "Vur",
+                "playcount": "37535651",
+                "discNumber": 1,
+                "trackNumber": 7,
+                "contentRating": {
+                  "label": "EXPLICIT"
+                },
+                "relinkingInformation": null,
+                "duration": {
+                  "totalMilliseconds": 155010
+                },
+                "playability": {
+                  "playable": true
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "uri": "spotify:artist:51DevdOxIJin6DB1FXJpD1",
+                      "profile": {
+                        "name": "UZI"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "uid": "cc1f597105ee3f74e5ef",
+              "track": {
+                "saved": false,
+                "uri": "spotify:track:4PpYi6USHlY7OhOcDASnD3",
+                "name": "Davetiye",
+                "playcount": "20605346",
+                "discNumber": 1,
+                "trackNumber": 8,
+                "contentRating": {
+                  "label": "EXPLICIT"
+                },
+                "relinkingInformation": null,
+                "duration": {
+                  "totalMilliseconds": 223608
+                },
+                "playability": {
+                  "playable": true
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "uri": "spotify:artist:51DevdOxIJin6DB1FXJpD1",
+                      "profile": {
+                        "name": "UZI"
+                      }
+                    },
+                    {
+                      "uri": "spotify:artist:6dOAGo4z0syiCjbnlh4VSO",
+                      "profile": {
+                        "name": "Critical"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "uid": "a65e4830380ecca8e75e",
+              "track": {
+                "saved": false,
+                "uri": "spotify:track:5gx3dMxQGJ1JDw5qHarRqp",
+                "name": "Elhamdulillah",
+                "playcount": "10237442",
+                "discNumber": 1,
+                "trackNumber": 9,
+                "contentRating": {
+                  "label": "EXPLICIT"
+                },
+                "relinkingInformation": null,
+                "duration": {
+                  "totalMilliseconds": 196682
+                },
+                "playability": {
+                  "playable": true
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "uri": "spotify:artist:51DevdOxIJin6DB1FXJpD1",
+                      "profile": {
+                        "name": "UZI"
+                      }
+                    },
+                    {
+                      "uri": "spotify:artist:3R27mVPp04i87RNmvysZfY",
+                      "profile": {
+                        "name": "Stap"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "uid": "e540efaba938853ed3b6",
+              "track": {
+                "saved": false,
+                "uri": "spotify:track:4PUniKS3Cywu23xjdtoji5",
+                "name": "Outro",
+                "playcount": "57169815",
+                "discNumber": 1,
+                "trackNumber": 10,
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "relinkingInformation": null,
+                "duration": {
+                  "totalMilliseconds": 192694
+                },
+                "playability": {
+                  "playable": true
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "uri": "spotify:artist:51DevdOxIJin6DB1FXJpD1",
+                      "profile": {
+                        "name": "UZI"
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "extensions": []
+  }

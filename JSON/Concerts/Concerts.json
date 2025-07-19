@@ -1,0 +1,1896 @@
+{
+    "headerImageUri": "https://tickets.spotifycdn.com/partner-assets/Hub%20header%20image/Mobile%20header%20IMG.png",
+    "userLocation": "Ashburn",
+    "userLocationGeonameId": "4744870",
+    "events": [
+      {
+        "artists": [
+          "3GcwTUB7z5p9dfqU7CAVT4"
+        ],
+        "venue": "Hippodrome at France-Merrick Performing Arts Center",
+        "location": "Baltimore",
+        "openingDate": "2023-12-18T19:00:00-0500",
+        "closingDate": "2023-12-19T19:00:00-0500",
+        "concerts": [
+          {
+            "concert": {
+              "id": "07QXLNEiwA2pxWaxgwvLpF",
+              "artistUris": [
+                "spotify:artist:3GcwTUB7z5p9dfqU7CAVT4"
+              ],
+              "artists": [
+                {
+                  "uri": "spotify:artist:3GcwTUB7z5p9dfqU7CAVT4",
+                  "name": "Nutcracker! Magical Christmas Ballet",
+                  "imageUri": "https://i.scdn.co/image/ab67616d00001e02fc2006296222721f7f9c90c6",
+                  "id": "3GcwTUB7z5p9dfqU7CAVT4"
+                }
+              ],
+              "date": "2023-12-18T19:00:00-0500",
+              "title": "Nutcracker! Magical Christmas Ballet",
+              "location": "Baltimore",
+              "venue": "Hippodrome at France-Merrick Performing Arts Center",
+              "lat": 39.289634,
+              "lon": -76.621342,
+              "partnerConcerts": [
+                {
+                  "partnerId": "ticketmaster",
+                  "concertId": "G5vfZ9tN6tdpg"
+                }
+              ],
+              "startDate": {
+                "date": "2023-12-19T00:00:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-18T19:00:00-0500",
+                "unknownTime": false
+              },
+              "festival": false,
+              "ticketing": [],
+              "artistNameTitle": "Nutcracker! Magical Christmas Ballet",
+              "carouselArtistGid": "3GcwTUB7z5p9dfqU7CAVT4",
+              "carouselImage": "https://i.scdn.co/image/ab67616d0000b273fc2006296222721f7f9c90c6",
+              "carouselArtistName": "Nutcracker! Magical Christmas Ballet",
+              "isParent": true,
+              "category": "CONCERT",
+              "isFirstParty": false,
+              "ticketers": [
+                {
+                  "partnerDisplayName": "Ticketmaster",
+                  "url": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=openhub&subId1=&subId3=07QXLNEiwA2pxWaxgwvLpF&u=https%3A%2F%2Fwww.ticketmaster.com%2Fnutcracker-magical-christmas-ballet-baltimore-maryland-12-18-2023%2Fevent%2F15005E98C7A435B5",
+                  "imageURL": "https://tickets.spotifycdn.com/partner-assets/ticketmaster.png",
+                  "type": "on-sale"
+                }
+              ]
+            },
+            "clickThruUrl": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=openhub&subId1=&subId3=07QXLNEiwA2pxWaxgwvLpF&u=https%3A%2F%2Fwww.ticketmaster.com%2Fnutcracker-magical-christmas-ballet-baltimore-maryland-12-18-2023%2Fevent%2F15005E98C7A435B5",
+            "source": "popular",
+            "nearUser": true,
+            "clickThrus": [
+              {
+                "partnerDisplayName": "Ticketmaster",
+                "url": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=openhub&subId1=&subId3=07QXLNEiwA2pxWaxgwvLpF&u=https%3A%2F%2Fwww.ticketmaster.com%2Fnutcracker-magical-christmas-ballet-baltimore-maryland-12-18-2023%2Fevent%2F15005E98C7A435B5",
+                "imageURL": "https://tickets.spotifycdn.com/partner-assets/ticketmaster.png"
+              }
+            ]
+          },
+          {
+            "concert": {
+              "id": "5MbhTPvtVHSvlvORADQU5Y",
+              "artistUris": [
+                "spotify:artist:3GcwTUB7z5p9dfqU7CAVT4"
+              ],
+              "artists": [
+                {
+                  "uri": "spotify:artist:3GcwTUB7z5p9dfqU7CAVT4",
+                  "name": "Nutcracker! Magical Christmas Ballet",
+                  "imageUri": "https://i.scdn.co/image/ab67616d00001e02fc2006296222721f7f9c90c6",
+                  "id": "3GcwTUB7z5p9dfqU7CAVT4"
+                }
+              ],
+              "date": "2023-12-19T19:00:00-0500",
+              "title": "Nutcracker! Magical Christmas Ballet",
+              "location": "Baltimore",
+              "venue": "Hippodrome at France-Merrick Performing Arts Center",
+              "lat": 39.289634,
+              "lon": -76.621342,
+              "partnerConcerts": [
+                {
+                  "partnerId": "ticketmaster",
+                  "concertId": "G5vfZ9tN6nd9A"
+                }
+              ],
+              "startDate": {
+                "date": "2023-12-20T00:00:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-19T19:00:00-0500",
+                "unknownTime": false
+              },
+              "festival": false,
+              "ticketing": [],
+              "artistNameTitle": "Nutcracker! Magical Christmas Ballet",
+              "carouselArtistGid": "3GcwTUB7z5p9dfqU7CAVT4",
+              "carouselImage": "https://i.scdn.co/image/ab67616d0000b273fc2006296222721f7f9c90c6",
+              "carouselArtistName": "Nutcracker! Magical Christmas Ballet",
+              "isParent": true,
+              "category": "CONCERT",
+              "isFirstParty": false,
+              "ticketers": [
+                {
+                  "partnerDisplayName": "Ticketmaster",
+                  "url": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=openhub&subId1=&subId3=5MbhTPvtVHSvlvORADQU5Y&u=https%3A%2F%2Fwww.ticketmaster.com%2Fnutcracker-magical-christmas-ballet-baltimore-maryland-12-19-2023%2Fevent%2F15005E98C7A835C5%3Futm_content%3Dhotevent",
+                  "imageURL": "https://tickets.spotifycdn.com/partner-assets/ticketmaster.png",
+                  "type": "on-sale"
+                }
+              ]
+            },
+            "clickThruUrl": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=openhub&subId1=&subId3=5MbhTPvtVHSvlvORADQU5Y&u=https%3A%2F%2Fwww.ticketmaster.com%2Fnutcracker-magical-christmas-ballet-baltimore-maryland-12-19-2023%2Fevent%2F15005E98C7A835C5%3Futm_content%3Dhotevent",
+            "source": "popular",
+            "nearUser": true,
+            "clickThrus": [
+              {
+                "partnerDisplayName": "Ticketmaster",
+                "url": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=openhub&subId1=&subId3=5MbhTPvtVHSvlvORADQU5Y&u=https%3A%2F%2Fwww.ticketmaster.com%2Fnutcracker-magical-christmas-ballet-baltimore-maryland-12-19-2023%2Fevent%2F15005E98C7A835C5%3Futm_content%3Dhotevent",
+                "imageURL": "https://tickets.spotifycdn.com/partner-assets/ticketmaster.png"
+              }
+            ]
+          }
+        ],
+        "source": "popular"
+      },
+      {
+        "artists": [
+          "3WaJSfKnzc65VDgmj2zU8B",
+          "5LVwnNOyet7bByVFDPS76O"
+        ],
+        "venue": "9:30 CLUB",
+        "location": "Washington",
+        "openingDate": "2023-12-18T19:00:00-0500",
+        "closingDate": "2023-12-18T19:00:00-0500",
+        "concerts": [
+          {
+            "concert": {
+              "id": "5AH8QIT0DFhEt1BzRB9Olh",
+              "artistUris": [
+                "spotify:artist:3WaJSfKnzc65VDgmj2zU8B",
+                "spotify:artist:5LVwnNOyet7bByVFDPS76O"
+              ],
+              "artists": [
+                {
+                  "uri": "spotify:artist:3WaJSfKnzc65VDgmj2zU8B",
+                  "name": "Interpol",
+                  "imageUri": "https://i.scdn.co/image/ab67616100005174c31f8e7aad462874455cf070",
+                  "topTrackUri": "spotify:track:4absiGHMelB8eH976ytjBj",
+                  "bio": "Interpol began in New York in 1997, when guitarist Daniel Kessler recruited bassist Carlos Dengler and singer/guitarist Paul Banks to form a band. In 2002, with Sam Fogarino on drums, the band signed to Matador records and released <a href=\"spotify:album:4sW8Eql2e2kdRP1A1R1clG\" data-name=\"Turn On The Bright Lights\">Turn On The Bright Lights</a> which made it to 10th position on NME’s list of 2002’s top releases and Pitchfork named it the year’s #1 album.\n \nOver the next decade and a half Interpol would go on to wide critical and commercial acclaim, with five subsequent high charting records on the Billboard 200; earning rave reviews across the map from Rolling Stone to TIME; performing on late night television shows including The Late Show with David Letterman and Conan and playing major festivals like Coachella and Glastonbury and headlining Mexico’s Corona Capital.\n \nThe band (Banks, Kessler and Fogarino) have just finished recording &#39;The Other Side of Make-Believe,&#39; their latest studio album with legendary production duo Flood &amp; Moulder, out on Matador Records, worldwide, July 15th. Pre-save the new album here: https://interpol.ffm.to/tosomb",
+                  "id": "3WaJSfKnzc65VDgmj2zU8B"
+                },
+                {
+                  "uri": "spotify:artist:5LVwnNOyet7bByVFDPS76O",
+                  "name": "Via Mardot",
+                  "imageUri": "https://i.scdn.co/image/ab67616100005174afe7f1776e4461aa3fbf4eab",
+                  "topTrackUri": "spotify:track:3ZzH37ZYUKqVgCwxzapRrb",
+                  "id": "5LVwnNOyet7bByVFDPS76O"
+                }
+              ],
+              "date": "2023-12-18T19:00:00-0500",
+              "title": "Interpol",
+              "location": "Washington",
+              "venue": "9:30 CLUB",
+              "lat": 38.91795,
+              "lon": -77.02373,
+              "partnerConcerts": [
+                {
+                  "partnerId": "ticketmaster",
+                  "concertId": "G5vfZ9Y59BVlS"
+                }
+              ],
+              "startDate": {
+                "date": "2023-12-19T00:00:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-18T19:00:00-0500",
+                "unknownTime": false
+              },
+              "festival": false,
+              "ticketing": [],
+              "artistNameTitle": "Interpol, Via Mardot",
+              "carouselArtistGid": "3WaJSfKnzc65VDgmj2zU8B",
+              "carouselImage": "https://i.scdn.co/image/ab6761610000e5ebc31f8e7aad462874455cf070",
+              "carouselArtistName": "Interpol",
+              "isParent": true,
+              "category": "CONCERT",
+              "isFirstParty": false,
+              "ticketers": [
+                {
+                  "partnerDisplayName": "Ticketmaster",
+                  "url": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=openhub&subId1=&subId3=5AH8QIT0DFhEt1BzRB9Olh&u=https%3A%2F%2Fwww.ticketmaster.com%2Finterpol-washington-district-of-columbia-12-18-2023%2Fevent%2F15005F02D7EB4AF3",
+                  "imageURL": "https://tickets.spotifycdn.com/partner-assets/ticketmaster.png",
+                  "type": "on-sale"
+                }
+              ]
+            },
+            "clickThruUrl": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=openhub&subId1=&subId3=5AH8QIT0DFhEt1BzRB9Olh&u=https%3A%2F%2Fwww.ticketmaster.com%2Finterpol-washington-district-of-columbia-12-18-2023%2Fevent%2F15005F02D7EB4AF3",
+            "source": "popular",
+            "nearUser": true,
+            "clickThrus": [
+              {
+                "partnerDisplayName": "Ticketmaster",
+                "url": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=openhub&subId1=&subId3=5AH8QIT0DFhEt1BzRB9Olh&u=https%3A%2F%2Fwww.ticketmaster.com%2Finterpol-washington-district-of-columbia-12-18-2023%2Fevent%2F15005F02D7EB4AF3",
+                "imageURL": "https://tickets.spotifycdn.com/partner-assets/ticketmaster.png"
+              }
+            ]
+          }
+        ],
+        "source": "popular"
+      },
+      {
+        "artists": [
+          "6tbjWDEIzxoDsBA1FuhfPW"
+        ],
+        "venue": "Capital One Arena",
+        "location": "Washington",
+        "openingDate": "2023-12-18T20:30:00-0500",
+        "closingDate": "2023-12-19T20:30:00-0500",
+        "concerts": [
+          {
+            "concert": {
+              "id": "3oUbVkBA0vBpjdano8xEPG",
+              "artistUris": [
+                "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+              ],
+              "artists": [
+                {
+                  "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW",
+                  "name": "Madonna",
+                  "imageUri": "https://i.scdn.co/image/ab676161000051744b36d28b55620959821f4a5b",
+                  "topTrackUri": "spotify:track:6WzRpISELf3YglGAh7TXcG",
+                  "id": "6tbjWDEIzxoDsBA1FuhfPW"
+                }
+              ],
+              "date": "2023-12-18T20:30:00-0500",
+              "title": "Madonna - The Celebration Tour",
+              "location": "Washington",
+              "venue": "Capital One Arena",
+              "lat": 38.897412,
+              "lon": -77.020029,
+              "partnerConcerts": [
+                {
+                  "partnerId": "ticketmaster",
+                  "concertId": "G5vfZ9NqTevQo"
+                }
+              ],
+              "startDate": {
+                "date": "2023-12-19T01:30:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-18T20:30:00-0500",
+                "unknownTime": false
+              },
+              "festival": false,
+              "ticketing": [],
+              "artistNameTitle": "Madonna",
+              "carouselArtistGid": "6tbjWDEIzxoDsBA1FuhfPW",
+              "carouselImage": "https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b",
+              "carouselArtistName": "Madonna",
+              "isParent": true,
+              "category": "CONCERT",
+              "isFirstParty": false,
+              "ticketers": [
+                {
+                  "partnerDisplayName": "Ticketmaster",
+                  "url": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=openhub&subId1=&subId3=3oUbVkBA0vBpjdano8xEPG&u=https%3A%2F%2Fwww.ticketmaster.com%2Fmadonna-the-celebration-tour-washington-district-of-columbia-12-18-2023%2Fevent%2F15005E377F081691%3Futm_content%3Dhotevent",
+                  "imageURL": "https://tickets.spotifycdn.com/partner-assets/ticketmaster.png",
+                  "type": "on-sale"
+                }
+              ]
+            },
+            "clickThruUrl": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=openhub&subId1=&subId3=3oUbVkBA0vBpjdano8xEPG&u=https%3A%2F%2Fwww.ticketmaster.com%2Fmadonna-the-celebration-tour-washington-district-of-columbia-12-18-2023%2Fevent%2F15005E377F081691%3Futm_content%3Dhotevent",
+            "source": "popular",
+            "nearUser": true,
+            "clickThrus": [
+              {
+                "partnerDisplayName": "Ticketmaster",
+                "url": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=openhub&subId1=&subId3=3oUbVkBA0vBpjdano8xEPG&u=https%3A%2F%2Fwww.ticketmaster.com%2Fmadonna-the-celebration-tour-washington-district-of-columbia-12-18-2023%2Fevent%2F15005E377F081691%3Futm_content%3Dhotevent",
+                "imageURL": "https://tickets.spotifycdn.com/partner-assets/ticketmaster.png"
+              }
+            ]
+          },
+          {
+            "concert": {
+              "id": "0B5O3sRcMo4zRNVWOQvGCz",
+              "artistUris": [
+                "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+              ],
+              "artists": [
+                {
+                  "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW",
+                  "name": "Madonna",
+                  "imageUri": "https://i.scdn.co/image/ab676161000051744b36d28b55620959821f4a5b",
+                  "topTrackUri": "spotify:track:6WzRpISELf3YglGAh7TXcG",
+                  "id": "6tbjWDEIzxoDsBA1FuhfPW"
+                }
+              ],
+              "date": "2023-12-19T20:30:00-0500",
+              "title": "Madonna - The Celebration Tour",
+              "location": "Washington",
+              "venue": "Capital One Arena",
+              "lat": 38.897412,
+              "lon": -77.020029,
+              "partnerConcerts": [
+                {
+                  "partnerId": "ticketmaster",
+                  "concertId": "G5vfZ99hpBVe6"
+                }
+              ],
+              "startDate": {
+                "date": "2023-12-20T01:30:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-19T20:30:00-0500",
+                "unknownTime": false
+              },
+              "festival": false,
+              "ticketing": [],
+              "artistNameTitle": "Madonna",
+              "carouselArtistGid": "6tbjWDEIzxoDsBA1FuhfPW",
+              "carouselImage": "https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b",
+              "carouselArtistName": "Madonna",
+              "isParent": true,
+              "category": "CONCERT",
+              "isFirstParty": false,
+              "ticketers": [
+                {
+                  "partnerDisplayName": "Ticketmaster",
+                  "url": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=openhub&subId1=&subId3=0B5O3sRcMo4zRNVWOQvGCz&u=https%3A%2F%2Fwww.ticketmaster.com%2Fmadonna-the-celebration-tour-washington-district-of-columbia-12-19-2023%2Fevent%2F15005D76D6EB4087%3Futm_content%3Dhotevent",
+                  "imageURL": "https://tickets.spotifycdn.com/partner-assets/ticketmaster.png",
+                  "type": "on-sale"
+                }
+              ]
+            },
+            "clickThruUrl": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=openhub&subId1=&subId3=0B5O3sRcMo4zRNVWOQvGCz&u=https%3A%2F%2Fwww.ticketmaster.com%2Fmadonna-the-celebration-tour-washington-district-of-columbia-12-19-2023%2Fevent%2F15005D76D6EB4087%3Futm_content%3Dhotevent",
+            "source": "popular",
+            "nearUser": true,
+            "clickThrus": [
+              {
+                "partnerDisplayName": "Ticketmaster",
+                "url": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=openhub&subId1=&subId3=0B5O3sRcMo4zRNVWOQvGCz&u=https%3A%2F%2Fwww.ticketmaster.com%2Fmadonna-the-celebration-tour-washington-district-of-columbia-12-19-2023%2Fevent%2F15005D76D6EB4087%3Futm_content%3Dhotevent",
+                "imageURL": "https://tickets.spotifycdn.com/partner-assets/ticketmaster.png"
+              }
+            ]
+          }
+        ],
+        "source": "popular"
+      },
+      {
+        "artists": [
+          "3yQ3jD3d0ytK5DdnsiM2e5",
+          "4rOGGTXaYygtFIHsPgLKJv",
+          "3GA7XHdtdiTpR4gDWgADwK"
+        ],
+        "venue": "Ottobar",
+        "location": "Baltimore",
+        "openingDate": "2023-12-19T09:00:00-0500",
+        "closingDate": "2023-12-19T09:00:00-0500",
+        "concerts": [
+          {
+            "concert": {
+              "id": "50OtQXrHWhBi6AfrCl9S91",
+              "artistUris": [
+                "spotify:artist:4rOGGTXaYygtFIHsPgLKJv",
+                "spotify:artist:3yQ3jD3d0ytK5DdnsiM2e5",
+                "spotify:artist:3GA7XHdtdiTpR4gDWgADwK"
+              ],
+              "artists": [
+                {
+                  "uri": "spotify:artist:4rOGGTXaYygtFIHsPgLKJv",
+                  "name": "Piebald",
+                  "imageUri": "https://i.scdn.co/image/ab676161000051745db20f11a59f02e2765f4812",
+                  "topTrackUri": "spotify:track:2T5PQWnnlf1cQaIyK6vH3i",
+                  "id": "4rOGGTXaYygtFIHsPgLKJv"
+                },
+                {
+                  "uri": "spotify:artist:3yQ3jD3d0ytK5DdnsiM2e5",
+                  "name": "Matt Pless",
+                  "imageUri": "https://i.scdn.co/image/ab6761610000517479b21486d668e611b7edec34",
+                  "topTrackUri": "spotify:track:22yTd5qFWOPx80Yf3qXYW3",
+                  "bio": "Combining elements of folk, punk, hip-hop, pop and roots rock, Matt Pless can lyrically turn a phrase with the best of them. He has been compared to some of the top songwriters of our time, including John Lennon, Paul Simon, John Prine and Bob Dylan. Known for his engaging, thought-provoking, witty, word labyrinths, his music spans topics from love and loss to social commentary, to ethereal train of thought abstractions and everything in between.\n​\nMatt’s DIY work ethic has seen him tour the US many times playing coffee shops, clubs, basements, living rooms, sidewalks…wherever there are people who want to hear his music. Along the way he has managed to share the stage with Maroon 5, Fallout Boy, Ani DiFranco, Rilo Kiley, Alkaline Trio, NOFX, Arlo Guthrie, Bad Brains, the late Pete Seeger and many others.\nMatt was the inspiration for Occupy This Album which grew out of the Occupy Wall Street movement, and both wrote and performed the opening song for the compilation. This disc combined both well-known and unknown artists and featured Jackson Browne, David Crosby, Graham Nash, Yoko Ono, Willie Nelson, Deborah Harry, Loudon Wainwright III, Arlo Guthrie, and many others.  \n\nA consummate performer with a high-energy stage presence, Matt’s universally relate-able songs will make you tap your foot, and ultimately tap your mind. ",
+                  "id": "3yQ3jD3d0ytK5DdnsiM2e5"
+                },
+                {
+                  "uri": "spotify:artist:3GA7XHdtdiTpR4gDWgADwK",
+                  "name": "Weakened Friends",
+                  "imageUri": "https://i.scdn.co/image/ab67616100005174d64549e8dc1db4213d28e627",
+                  "bio": "Weakened Friends dive into the honest truth of being a working musician on Quitter, reflecting on lost friendships and self-worth swallowed up by burnout. Songwriter, guitarist, and vocalist Sonia Sturino is supported by Annie Hoffman (bass/vocals) and Adam Hand (drums), filling out a mature and emotive sound. \n \nCentral to the record thematically is the empty threat of quitting music and “getting a real job.” Sturino wrestles with her relationship with music on the title track, shouting “I love it, but it never really feels okay” over scorching guitars. Despite the implications of the title, quitting is not an option for the band.  Even as friends settle into adulthood, Weakened Friends find themselves trapped in a fortress of their own creation, inseparably attached to the eternal youthfulness of life in music. In this liminal zone, life passes by and friendships are weakened, and Quitter takes plenty of time to mourn these losses.\n\nQuitter will be released on November 19, 2021.\n",
+                  "id": "3GA7XHdtdiTpR4gDWgADwK"
+                }
+              ],
+              "date": "2023-12-19T09:00:00-0500",
+              "title": "Piebald with Matt Pless and Weakened Friends at Ottobar (December 19, 2023)",
+              "location": "Baltimore",
+              "venue": "Ottobar",
+              "lat": 39.31884,
+              "lon": -76.6195,
+              "partnerConcerts": [
+                {
+                  "partnerId": "songkick",
+                  "concertId": "songkick:events:41546002"
+                }
+              ],
+              "startDate": {
+                "date": "2023-12-19T14:00:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-19T09:00:00-0500",
+                "unknownTime": false
+              },
+              "festival": false,
+              "ticketing": [],
+              "artistNameTitle": "Piebald, Matt Pless, Weakened Friends",
+              "carouselArtistGid": "4rOGGTXaYygtFIHsPgLKJv",
+              "carouselImage": "https://i.scdn.co/image/ab6761610000e5eb5db20f11a59f02e2765f4812",
+              "carouselArtistName": "Piebald",
+              "isParent": true,
+              "category": "CONCERT",
+              "isFirstParty": false,
+              "ticketers": [
+                {
+                  "partnerDisplayName": "Songkick",
+                  "url": "https://www.songkick.com/concerts/41546002-piebald-at-ottobar?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                  "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png",
+                  "type": "on-sale"
+                }
+              ]
+            },
+            "clickThruUrl": "https://www.songkick.com/concerts/41546002-piebald-at-ottobar?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+            "source": "popular",
+            "nearUser": true,
+            "clickThrus": [
+              {
+                "partnerDisplayName": "Songkick",
+                "url": "https://www.songkick.com/concerts/41546002-piebald-at-ottobar?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png"
+              }
+            ]
+          }
+        ],
+        "source": "popular"
+      },
+      {
+        "artists": [
+          "4rOGGTXaYygtFIHsPgLKJv"
+        ],
+        "venue": "Ottobar",
+        "location": "Baltimore",
+        "openingDate": "2023-12-19T19:00:00-0500",
+        "closingDate": "2023-12-19T19:00:00-0500",
+        "concerts": [
+          {
+            "concert": {
+              "id": "0G8cZh9N7cLQVf94PFvpRf",
+              "artistUris": [
+                "spotify:artist:4rOGGTXaYygtFIHsPgLKJv"
+              ],
+              "artists": [
+                {
+                  "uri": "spotify:artist:4rOGGTXaYygtFIHsPgLKJv",
+                  "name": "Piebald",
+                  "imageUri": "https://i.scdn.co/image/ab676161000051745db20f11a59f02e2765f4812",
+                  "topTrackUri": "spotify:track:2T5PQWnnlf1cQaIyK6vH3i",
+                  "id": "4rOGGTXaYygtFIHsPgLKJv"
+                }
+              ],
+              "date": "2023-12-19T19:00:00-0500",
+              "title": "Piebald",
+              "location": "Baltimore",
+              "venue": "Ottobar",
+              "lat": 39.318857,
+              "lon": -76.619669,
+              "partnerConcerts": [
+                {
+                  "partnerId": "ticketmaster",
+                  "concertId": "rZ7HnEZ1AKOOaz"
+                }
+              ],
+              "startDate": {
+                "date": "2023-12-20T00:00:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-19T19:00:00-0500",
+                "unknownTime": false
+              },
+              "festival": false,
+              "ticketing": [],
+              "artistNameTitle": "Piebald",
+              "carouselArtistGid": "4rOGGTXaYygtFIHsPgLKJv",
+              "carouselImage": "https://i.scdn.co/image/ab6761610000e5eb5db20f11a59f02e2765f4812",
+              "carouselArtistName": "Piebald",
+              "isParent": true,
+              "category": "CONCERT",
+              "isFirstParty": false,
+              "ticketers": [
+                {
+                  "partnerDisplayName": "Ticketmaster",
+                  "url": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=openhub&subId1=&subId3=0G8cZh9N7cLQVf94PFvpRf&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fpiebald-ottobar-tickets%2F13820278",
+                  "imageURL": "https://tickets.spotifycdn.com/partner-assets/ticketmaster.png",
+                  "type": "on-sale"
+                }
+              ]
+            },
+            "clickThruUrl": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=openhub&subId1=&subId3=0G8cZh9N7cLQVf94PFvpRf&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fpiebald-ottobar-tickets%2F13820278",
+            "source": "popular",
+            "nearUser": true,
+            "clickThrus": [
+              {
+                "partnerDisplayName": "Ticketmaster",
+                "url": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=openhub&subId1=&subId3=0G8cZh9N7cLQVf94PFvpRf&u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fpiebald-ottobar-tickets%2F13820278",
+                "imageURL": "https://tickets.spotifycdn.com/partner-assets/ticketmaster.png"
+              }
+            ]
+          }
+        ],
+        "source": "popular"
+      },
+      {
+        "artists": [
+          "7DpuhYociyFsr9lp4Ifmy8"
+        ],
+        "venue": "The Keystone Korner Baltimore",
+        "location": "Baltimore",
+        "openingDate": "2023-12-19T19:30:00-0500",
+        "closingDate": "2023-12-19T19:30:00-0500",
+        "concerts": [
+          {
+            "concert": {
+              "id": "03GGWmh5ghJQU3uPxLqMFZ",
+              "artistUris": [
+                "spotify:artist:7DpuhYociyFsr9lp4Ifmy8"
+              ],
+              "artists": [
+                {
+                  "uri": "spotify:artist:7DpuhYociyFsr9lp4Ifmy8",
+                  "name": "Peter Collins",
+                  "imageUri": "https://i.scdn.co/image/ab6761610000517423b1887bf7d505c821beee80",
+                  "topTrackUri": "spotify:track:23Hvl8JrHDhkY4LbExIPa6",
+                  "bio": "Peter Collins is an incredibly talented singer, songwriter, and musical interpreter who breaks down traditional genre boundaries. He has emerged as a new force in music with a sound that is an eclectic mix of R&amp;B, Soul, and Jazz with an Inspirational core foundation.  Peter has established his own identity with his endearing vocals and musical versatility.  He often serenades audiences with just his guitar and voice.  With just a one man show, Peter will have you hearing instruments that are not even there.  His trumpet-like ad libs, jazzy nuances and message of love are just a few of the things he showcases in his performances.  He is known for infusing classic songs with fresh harmonies and melodies. Peter’s voice is clear, sultry, and soulful.  Having amazing musical instincts, Peter possess such a powerful, beautiful, and masterful consistent sense of command with his voice; and his guitar playing is equally remarkable in its own right.  \n\n",
+                  "id": "7DpuhYociyFsr9lp4Ifmy8"
+                }
+              ],
+              "date": "2023-12-19T19:30:00-0500",
+              "title": "Peter Collins at The Keystone Korner Baltimore (December 19, 2023)",
+              "location": "Baltimore",
+              "venue": "The Keystone Korner Baltimore",
+              "lat": 39.28249,
+              "lon": -76.59793,
+              "partnerConcerts": [
+                {
+                  "partnerId": "songkick",
+                  "concertId": "songkick:events:41611665"
+                }
+              ],
+              "startDate": {
+                "date": "2023-12-20T00:30:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-19T19:30:00-0500",
+                "unknownTime": false
+              },
+              "festival": false,
+              "ticketing": [],
+              "artistNameTitle": "Peter Collins",
+              "carouselArtistGid": "7DpuhYociyFsr9lp4Ifmy8",
+              "carouselImage": "https://i.scdn.co/image/ab6761610000e5eb23b1887bf7d505c821beee80",
+              "carouselArtistName": "Peter Collins",
+              "isParent": true,
+              "category": "CONCERT",
+              "isFirstParty": false,
+              "ticketers": [
+                {
+                  "partnerDisplayName": "Songkick",
+                  "url": "https://www.songkick.com/concerts/41611665-peter-collins-at-keystone-korner-baltimore?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                  "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png",
+                  "type": "on-sale"
+                }
+              ]
+            },
+            "clickThruUrl": "https://www.songkick.com/concerts/41611665-peter-collins-at-keystone-korner-baltimore?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+            "source": "popular",
+            "nearUser": true,
+            "clickThrus": [
+              {
+                "partnerDisplayName": "Songkick",
+                "url": "https://www.songkick.com/concerts/41611665-peter-collins-at-keystone-korner-baltimore?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png"
+              }
+            ]
+          }
+        ],
+        "source": "popular"
+      },
+      {
+        "artists": [
+          "0uV5S1E8HxUmrBHinzQgCX"
+        ],
+        "venue": "Sofar Sounds",
+        "location": "Washington",
+        "openingDate": "2023-12-20T08:00:00-0500",
+        "closingDate": "2023-12-20T08:00:00-0500",
+        "concerts": [
+          {
+            "concert": {
+              "id": "1LWaeoMSd0ilZl7pkU7AQs",
+              "artistUris": [
+                "spotify:artist:0uV5S1E8HxUmrBHinzQgCX"
+              ],
+              "artists": [
+                {
+                  "uri": "spotify:artist:0uV5S1E8HxUmrBHinzQgCX",
+                  "name": "Freddy Hall",
+                  "imageUri": "https://i.scdn.co/image/ab67616100005174dea4d1c41d3eeb9709bbb6c1",
+                  "topTrackUri": "spotify:track:1Mbee7xvRKkextudOJyldn",
+                  "bio": "Deemed “a true artist of the human condition” by Performer Magazine, Freddy Hall  crafts songs about life, love, and everything in between. This indie/pop darling mixes the sonic and anthemic elements of monumental artists like The Killers, Beck and Amy  Winehouse as well as the sophistication of songwriting greats like Paul Simon and Joni  Mitchell.  \n\nA Virginia native, Freddy set up camp in Brooklyn in the fall 2008 after graduating with  esteem from Berklee College of Music, in Boston MA. He quickly made a name for  himself touring with Duncan Sheik’s Tony award winning musical Spring Awakening. \n\nFreddy has worked with songwriting giants like Carole King, Green Day’s Billie Joe  Armstrong, and Vanessa Carlton. His musicianship has been featured on Disney&#43;, This  American Life, Billboard, and as a staff favorite of Performer Magazine. \n\nFreddy comes alive when he steps on stage. His ability to connect with his audience has launched him into venues of all shapes and sizes. From Lincoln Center, to makeshift  stages in living rooms, his engaging and energetic performances have earned him a  diverse and dedicated fan base. \n\nEarlier this year Freddy teamed up with producer Anthony “Rocky” Gallo (John Legend,  Cigarettes After Sex) to record his third studio album Dazy. Dazy, due out this Fall, is a journey of self-discovery through loss, and is offered as a  beacon of hope, especially to the most fragile among us.\n",
+                  "id": "0uV5S1E8HxUmrBHinzQgCX"
+                }
+              ],
+              "date": "2023-12-20T08:00:00-0500",
+              "title": "Freddy Hall at Sofar Sounds (December 20, 2023)",
+              "location": "Washington",
+              "venue": "Sofar Sounds",
+              "lat": 38.9136,
+              "lon": -77.0132,
+              "partnerConcerts": [
+                {
+                  "partnerId": "songkick",
+                  "concertId": "songkick:events:41569006"
+                }
+              ],
+              "startDate": {
+                "date": "2023-12-20T13:00:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-20T08:00:00-0500",
+                "unknownTime": false
+              },
+              "festival": false,
+              "ticketing": [],
+              "artistNameTitle": "Freddy Hall",
+              "carouselArtistGid": "0uV5S1E8HxUmrBHinzQgCX",
+              "carouselImage": "https://i.scdn.co/image/ab6761610000e5ebdea4d1c41d3eeb9709bbb6c1",
+              "carouselArtistName": "Freddy Hall",
+              "isParent": true,
+              "category": "CONCERT",
+              "isFirstParty": false,
+              "ticketers": [
+                {
+                  "partnerDisplayName": "Songkick",
+                  "url": "https://www.songkick.com/concerts/41569006-freddy-hall-at-sofar-sounds?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                  "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png",
+                  "type": "on-sale"
+                }
+              ]
+            },
+            "clickThruUrl": "https://www.songkick.com/concerts/41569006-freddy-hall-at-sofar-sounds?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+            "source": "popular",
+            "nearUser": true,
+            "clickThrus": [
+              {
+                "partnerDisplayName": "Songkick",
+                "url": "https://www.songkick.com/concerts/41569006-freddy-hall-at-sofar-sounds?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png"
+              }
+            ]
+          }
+        ],
+        "source": "popular"
+      },
+      {
+        "artists": [
+          "0k65PL08B1OYc76Wlh2hjT"
+        ],
+        "venue": "Millennium Stage, Kennedy Center",
+        "location": "Washington",
+        "openingDate": "2023-12-20T18:00:00-0500",
+        "closingDate": "2023-12-20T18:00:00-0500",
+        "concerts": [
+          {
+            "concert": {
+              "id": "7a2CCidIe19T3jjqeLv9vZ",
+              "artistUris": [
+                "spotify:artist:0k65PL08B1OYc76Wlh2hjT"
+              ],
+              "artists": [
+                {
+                  "uri": "spotify:artist:0k65PL08B1OYc76Wlh2hjT",
+                  "name": "Dupont Brass",
+                  "imageUri": "https://i.scdn.co/image/ab67616100005174e2f3cebda089e21d244f3750",
+                  "topTrackUri": "spotify:track:1GfhfsQI0fFhulKnfLDv8z",
+                  "bio": "DuPont Brass is a unique, soulful, brass ensemble hailing from the D.C. Metropolitan Area. Originally composed of five music majors from Howard University trying to raise money for tuition during the Christmas season, they have now grown to an 9-piece ensemble consisting of brass, a rhythm section, and vocalists. Gaining popularity from playing at local Metro stations, DuPont Brass started out professionally playing for weddings, banquets, and other private events in the surrounding area. Thanks to the foundation laid in their earlier years, DuPont Brass has had the opportunity to perform in conjunction with the D.C. Jazz Festival, The Washington Performing Arts Society, and on the prestigious Kennedy Center Millennium Stage. Consistently touching the hearts of the community with their heartwarming testimony, DuPont Brass has been featured on WPFW&#39;s “Live at Five” three times and featured in the Washington Post Newspaper five times. Through their training in both classical and contemporary styles, the rising supergroup has developed a sound that mixes varied genres of music, including jazz, hip-hop, and R&amp;B. In their latest effort, Music Education, DuPont Brass shows us why they are qualified to excel in both the education and performance arenas of the music industry. Filled with a diverse arsenal of musical styles, they present a body of work made with every kind of listener in mind. \n ",
+                  "id": "0k65PL08B1OYc76Wlh2hjT"
+                }
+              ],
+              "date": "2023-12-20T18:00:00-0500",
+              "title": "DuPont Brass at Millennium Stage, Kennedy Center (December 20, 2023)",
+              "location": "Washington",
+              "venue": "Millennium Stage, Kennedy Center",
+              "lat": 38.89606,
+              "lon": -77.0552,
+              "partnerConcerts": [
+                {
+                  "partnerId": "songkick",
+                  "concertId": "songkick:events:41257924"
+                }
+              ],
+              "startDate": {
+                "date": "2023-12-20T23:00:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-20T18:00:00-0500",
+                "unknownTime": false
+              },
+              "festival": false,
+              "ticketing": [],
+              "artistNameTitle": "Dupont Brass",
+              "carouselArtistGid": "0k65PL08B1OYc76Wlh2hjT",
+              "carouselImage": "https://i.scdn.co/image/ab6761610000e5ebe2f3cebda089e21d244f3750",
+              "carouselArtistName": "Dupont Brass",
+              "isParent": true,
+              "category": "CONCERT",
+              "isFirstParty": false,
+              "ticketers": [
+                {
+                  "partnerDisplayName": "Songkick",
+                  "url": "https://www.songkick.com/concerts/41257924-dupont-brass-at-millennium-stage-kennedy-center?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                  "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png",
+                  "type": "on-sale"
+                }
+              ]
+            },
+            "clickThruUrl": "https://www.songkick.com/concerts/41257924-dupont-brass-at-millennium-stage-kennedy-center?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+            "source": "popular",
+            "nearUser": true,
+            "clickThrus": [
+              {
+                "partnerDisplayName": "Songkick",
+                "url": "https://www.songkick.com/concerts/41257924-dupont-brass-at-millennium-stage-kennedy-center?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png"
+              }
+            ]
+          }
+        ],
+        "source": "popular"
+      },
+      {
+        "artists": [
+          "2SMYoM2Kbcj6rI6U3FRc4U"
+        ],
+        "venue": "Living Word International Christian Church",
+        "location": "Washington",
+        "openingDate": "2023-12-20T19:00:00-0500",
+        "closingDate": "2023-12-20T19:00:00-0500",
+        "concerts": [
+          {
+            "concert": {
+              "id": "5vxWc8567QcGYg4poJhQCF",
+              "artistUris": [
+                "spotify:artist:2SMYoM2Kbcj6rI6U3FRc4U"
+              ],
+              "artists": [
+                {
+                  "uri": "spotify:artist:2SMYoM2Kbcj6rI6U3FRc4U",
+                  "name": "Sidewalk Prophets",
+                  "imageUri": "https://i.scdn.co/image/ab676161000051741c1d06c32fc7780504bd5953",
+                  "topTrackUri": "spotify:track:2gdSplXjHbjMMfLcwl3Nku",
+                  "bio": "With a career spanning three major label studio releases—These Simple Truths(2009), Live Like That (2012) and Something Different (2015), plus 2013’s celebrated holiday offering, Merry Christmas To You—and multiple hits, including “The Words I Would Say,” “You Love Me Anyway” and “Live Like That,” among others, Sidewalk Prophets remains a mainstay at Christian radio. The Dove Award-winning band has sold over 736,000 albums and over 1.6 million digital downloads. In addition, the group has garnered five No. 1 songs, nine top five radio singles and more than 24 million views on YouTube. The band originally formed at Indiana’s Anderson University, and since signing with Fervent Records/Word Entertainment, they’ve been nominated for a BillboardMusic Award, multiple K-LOVE Fan Awards and four Dove Awards, taking home the New Artist of the Year Dove in 2010. Over the course of their career, they’ve played for more than 2.5 million fans, and counting. Known for spending more days on the road than anywhere else, Sidewalk Prophets’ most recent tours (The Great Big Family Room Tour, The Prodigal Tour) have morphed into interactive experiences for the band and fans alike. Sidewalk Prophets will continue to set precedence with their creative live shows as a part of this fall’s Big Church Night Out Tour, alongside Newsboys, Blanca, 7eventh Time Down, and others.",
+                  "id": "2SMYoM2Kbcj6rI6U3FRc4U"
+                }
+              ],
+              "date": "2023-12-20T19:00:00-0500",
+              "title": "Sidewalk Prophets at Living Word International Christian Church (December 20, 2023)",
+              "location": "Washington",
+              "venue": "Living Word International Christian Church",
+              "lat": 39.13242,
+              "lon": -76.99225,
+              "partnerConcerts": [
+                {
+                  "partnerId": "songkick",
+                  "concertId": "songkick:events:41444810"
+                }
+              ],
+              "startDate": {
+                "date": "2023-12-21T00:00:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-20T19:00:00-0500",
+                "unknownTime": false
+              },
+              "festival": false,
+              "ticketing": [],
+              "artistNameTitle": "Sidewalk Prophets",
+              "carouselArtistGid": "2SMYoM2Kbcj6rI6U3FRc4U",
+              "carouselImage": "https://i.scdn.co/image/ab6761610000e5eb1c1d06c32fc7780504bd5953",
+              "carouselArtistName": "Sidewalk Prophets",
+              "isParent": true,
+              "category": "CONCERT",
+              "isFirstParty": false,
+              "ticketers": [
+                {
+                  "partnerDisplayName": "Songkick",
+                  "url": "https://www.songkick.com/concerts/41444810-sidewalk-prophets-at-living-word-international-christian-church?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                  "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png",
+                  "type": "on-sale"
+                }
+              ]
+            },
+            "clickThruUrl": "https://www.songkick.com/concerts/41444810-sidewalk-prophets-at-living-word-international-christian-church?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+            "source": "popular",
+            "nearUser": true,
+            "clickThrus": [
+              {
+                "partnerDisplayName": "Songkick",
+                "url": "https://www.songkick.com/concerts/41444810-sidewalk-prophets-at-living-word-international-christian-church?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png"
+              }
+            ]
+          }
+        ],
+        "source": "popular"
+      },
+      {
+        "artists": [
+          "3OlfL5mJBZhqyFMmLNY12i"
+        ],
+        "venue": "Metro Baltimore",
+        "location": "Baltimore",
+        "openingDate": "2023-12-20T19:00:00-0500",
+        "closingDate": "2023-12-20T19:00:00-0500",
+        "concerts": [
+          {
+            "concert": {
+              "id": "2AraGgRVk4xldsij832bUJ",
+              "artistUris": [
+                "spotify:artist:3OlfL5mJBZhqyFMmLNY12i"
+              ],
+              "artists": [
+                {
+                  "uri": "spotify:artist:3OlfL5mJBZhqyFMmLNY12i",
+                  "name": "Luv",
+                  "imageUri": "https://i.scdn.co/image/ab67616d00001e02215b37bb188f6098393e7566",
+                  "topTrackUri": "spotify:track:5QSfNrAwGI73wW9kgfUJes",
+                  "id": "3OlfL5mJBZhqyFMmLNY12i"
+                }
+              ],
+              "date": "2023-12-20T19:00:00-0500",
+              "title": "LEAN TEE w/ Thee Windows, Paper Lanterns and Luv",
+              "location": "Baltimore",
+              "venue": "Metro Baltimore",
+              "lat": 39.30889,
+              "lon": -76.6168,
+              "partnerConcerts": [
+                {
+                  "partnerId": "dice",
+                  "concertId": "279263"
+                }
+              ],
+              "startDate": {
+                "date": "2023-12-21T00:00:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-20T19:00:00-0500",
+                "unknownTime": false
+              },
+              "festival": false,
+              "ticketing": [],
+              "artistNameTitle": "Luv",
+              "carouselArtistGid": "3OlfL5mJBZhqyFMmLNY12i",
+              "carouselImage": "https://i.scdn.co/image/ab67616d0000b273215b37bb188f6098393e7566",
+              "carouselArtistName": "Luv",
+              "isParent": true,
+              "category": "CONCERT",
+              "isFirstParty": false,
+              "ticketers": [
+                {
+                  "partnerDisplayName": "DICE",
+                  "url": "https://dice.fm/partner/spotify/event/mgo9w-lean-tee-w-thee-windows-paper-lanterns-and-luv-20th-dec-metro-baltimore-baltimore-tickets",
+                  "imageURL": "https://tickets.spotifycdn.com/partner-assets/dice.png",
+                  "type": "on-sale"
+                }
+              ]
+            },
+            "clickThruUrl": "https://dice.fm/partner/spotify/event/mgo9w-lean-tee-w-thee-windows-paper-lanterns-and-luv-20th-dec-metro-baltimore-baltimore-tickets",
+            "source": "popular",
+            "nearUser": true,
+            "clickThrus": [
+              {
+                "partnerDisplayName": "DICE",
+                "url": "https://dice.fm/partner/spotify/event/mgo9w-lean-tee-w-thee-windows-paper-lanterns-and-luv-20th-dec-metro-baltimore-baltimore-tickets",
+                "imageURL": "https://tickets.spotifycdn.com/partner-assets/dice.png"
+              }
+            ]
+          }
+        ],
+        "source": "popular"
+      },
+      {
+        "artists": [
+          "5tdGXBxRVers4lWxUqRMzn"
+        ],
+        "venue": "The Keystone Korner Baltimore",
+        "location": "Baltimore",
+        "openingDate": "2023-12-20T19:30:00-0500",
+        "closingDate": "2023-12-20T19:30:00-0500",
+        "concerts": [
+          {
+            "concert": {
+              "id": "5AjUcaOvlXCBpvwzAs7Rr4",
+              "artistUris": [
+                "spotify:artist:5tdGXBxRVers4lWxUqRMzn"
+              ],
+              "artists": [
+                {
+                  "uri": "spotify:artist:5tdGXBxRVers4lWxUqRMzn",
+                  "name": "Dennis Chambers",
+                  "imageUri": "https://i.scdn.co/image/26893916fc0eff4ca28ccf145d28272c23e213b8",
+                  "topTrackUri": "spotify:track:5UPd95cVd4mIh8psFTniGL",
+                  "id": "5tdGXBxRVers4lWxUqRMzn"
+                }
+              ],
+              "date": "2023-12-20T19:30:00-0500",
+              "title": "Knick Smith Quintet and Dennis Chambers at The Keystone Korner Baltimore (December 20, 2023)",
+              "location": "Baltimore",
+              "venue": "The Keystone Korner Baltimore",
+              "lat": 39.28249,
+              "lon": -76.59793,
+              "partnerConcerts": [
+                {
+                  "partnerId": "songkick",
+                  "concertId": "songkick:events:41541368"
+                }
+              ],
+              "startDate": {
+                "date": "2023-12-21T00:30:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-20T19:30:00-0500",
+                "unknownTime": false
+              },
+              "festival": false,
+              "ticketing": [],
+              "artistNameTitle": "Dennis Chambers",
+              "carouselArtistGid": "5tdGXBxRVers4lWxUqRMzn",
+              "carouselImage": "https://i.scdn.co/image/4054156bdbd3c3ac0d451cfbd73e0c1e011a81fe",
+              "carouselArtistName": "Dennis Chambers",
+              "isParent": true,
+              "category": "CONCERT",
+              "isFirstParty": false,
+              "ticketers": [
+                {
+                  "partnerDisplayName": "Songkick",
+                  "url": "https://www.songkick.com/concerts/41541368-knick-smith-quintet-at-keystone-korner-baltimore?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                  "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png",
+                  "type": "on-sale"
+                }
+              ]
+            },
+            "clickThruUrl": "https://www.songkick.com/concerts/41541368-knick-smith-quintet-at-keystone-korner-baltimore?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+            "source": "popular",
+            "nearUser": true,
+            "clickThrus": [
+              {
+                "partnerDisplayName": "Songkick",
+                "url": "https://www.songkick.com/concerts/41541368-knick-smith-quintet-at-keystone-korner-baltimore?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png"
+              }
+            ]
+          }
+        ],
+        "source": "popular"
+      },
+      {
+        "artists": [
+          "7KyaSSJ8uTv7Unev4z2Qc7"
+        ],
+        "venue": "The Theater at MGM National Harbor",
+        "location": "National Harbor ",
+        "openingDate": "2023-12-20T20:00:00-0500",
+        "closingDate": "2023-12-20T20:00:00-0500",
+        "concerts": [
+          {
+            "concert": {
+              "id": "0QsZu4OP1EOj1bzugkC9dB",
+              "artistUris": [
+                "spotify:artist:7KyaSSJ8uTv7Unev4z2Qc7"
+              ],
+              "artists": [
+                {
+                  "uri": "spotify:artist:7KyaSSJ8uTv7Unev4z2Qc7",
+                  "name": "Kelly Chen",
+                  "imageUri": "https://i.scdn.co/image/ab67616100005174a0c8c653ac1dd6893579f1d1",
+                  "topTrackUri": "spotify:track:7CcX5AUh3JOQZYIgOVpIr7",
+                  "id": "7KyaSSJ8uTv7Unev4z2Qc7"
+                }
+              ],
+              "date": "2023-12-20T20:00:00-0500",
+              "title": "Kelly Chen",
+              "location": "National Harbor ",
+              "venue": "The Theater at MGM National Harbor",
+              "lat": 38.791707,
+              "lon": -77.003002,
+              "partnerConcerts": [
+                {
+                  "partnerId": "ticketmaster",
+                  "concertId": "G5vfZ9UQyAvzQ"
+                }
+              ],
+              "startDate": {
+                "date": "2023-12-21T01:00:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-20T20:00:00-0500",
+                "unknownTime": false
+              },
+              "festival": false,
+              "ticketing": [],
+              "artistNameTitle": "Kelly Chen",
+              "carouselArtistGid": "7KyaSSJ8uTv7Unev4z2Qc7",
+              "carouselImage": "https://i.scdn.co/image/ab6761610000e5eba0c8c653ac1dd6893579f1d1",
+              "carouselArtistName": "Kelly Chen",
+              "isParent": true,
+              "category": "CONCERT",
+              "isFirstParty": false,
+              "ticketers": [
+                {
+                  "partnerDisplayName": "Ticketmaster",
+                  "url": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=openhub&subId1=&subId3=0QsZu4OP1EOj1bzugkC9dB&u=https%3A%2F%2Fwww.ticketmaster.com%2Fkelly-chen-national-harbor-maryland-12-20-2023%2Fevent%2F15005F66B9141E1A%3Futm_content%3Dhotevent",
+                  "imageURL": "https://tickets.spotifycdn.com/partner-assets/ticketmaster.png",
+                  "type": "on-sale"
+                }
+              ]
+            },
+            "clickThruUrl": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=openhub&subId1=&subId3=0QsZu4OP1EOj1bzugkC9dB&u=https%3A%2F%2Fwww.ticketmaster.com%2Fkelly-chen-national-harbor-maryland-12-20-2023%2Fevent%2F15005F66B9141E1A%3Futm_content%3Dhotevent",
+            "source": "popular",
+            "nearUser": true,
+            "clickThrus": [
+              {
+                "partnerDisplayName": "Ticketmaster",
+                "url": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=openhub&subId1=&subId3=0QsZu4OP1EOj1bzugkC9dB&u=https%3A%2F%2Fwww.ticketmaster.com%2Fkelly-chen-national-harbor-maryland-12-20-2023%2Fevent%2F15005F66B9141E1A%3Futm_content%3Dhotevent",
+                "imageURL": "https://tickets.spotifycdn.com/partner-assets/ticketmaster.png"
+              }
+            ]
+          }
+        ],
+        "source": "popular"
+      },
+      {
+        "artists": [
+          "42o3S5oDd4Q4YyMNRmN5oS"
+        ],
+        "venue": "Union Stage",
+        "location": "Washington",
+        "openingDate": "2023-12-21T07:00:00-0500",
+        "closingDate": "2023-12-21T07:00:00-0500",
+        "concerts": [
+          {
+            "concert": {
+              "id": "4lph9pqDXdmY8qCn8RKJmb",
+              "artistUris": [
+                "spotify:artist:42o3S5oDd4Q4YyMNRmN5oS"
+              ],
+              "artists": [
+                {
+                  "uri": "spotify:artist:42o3S5oDd4Q4YyMNRmN5oS",
+                  "name": "Kiosk",
+                  "imageUri": "https://i.scdn.co/image/ab676161000051742aefe84419347749aec535e2",
+                  "topTrackUri": "spotify:track:1JMya4S1sgn0NqthGkiRuJ",
+                  "bio": "Kiosk is a pioneering Iranian rock band (The Berlin Daily Newspaper) founded by Arash Sobhani in Tehran in 2003. After censorship and restriction by Iranian authorities, its musicians immigrated to the U.S. and Canada. The band has since toured throughout the world and released 10 albums. Kiosk is known for its satirical lyrics, which provide a socio-political commentary of life in Iran, as well as its blend of several music styles, from Iranian folk to gypsy jazz to rock. Kiosk&#39;s music has been described by BBC World as &quot;songs that speak to a generation...Kiosk&#39;s stinging political satire is hidden within its blues and folksy sound.&quot; Haaretz has referred to Kiosk as the most popular Iranian rock band in the Iranian diaspora, while Ahram Online describes how the band gives a voice to their generation. Kiosk&#39;s live album &quot;Triple Distilled,&quot; recorded at Yoshi&#39;s Jazz Club, was chosen by presenter Mark Coles from BBC World&#39;s &quot;World of Music&quot; as one of the ten best world music albums of the year, alongside such artists as Paolo Conte and Ali Farka Touré. TIME Magazine has called Kiosk &quot;a band that can criticize the Iranian government without retribution,&quot; while Frontline PBS has praised their &quot;eclectic sound that incorporates a multitude of instruments and styles.&quot;\nCurrent Kiosk members include Ali Kamali (bass, recording engineer), Arash Sobhani (lyricist and songwriter, guitar, vocals) and Shahrouz Molaei (drum).\n",
+                  "id": "42o3S5oDd4Q4YyMNRmN5oS"
+                }
+              ],
+              "date": "2023-12-21T07:00:00-0500",
+              "title": "Kiosk The Band and Kiosk at Union Stage (December 21, 2023)",
+              "location": "Washington",
+              "venue": "Union Stage",
+              "lat": 38.87866,
+              "lon": -77.02388,
+              "partnerConcerts": [
+                {
+                  "partnerId": "songkick",
+                  "concertId": "songkick:events:41603825"
+                }
+              ],
+              "startDate": {
+                "date": "2023-12-21T12:00:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-21T07:00:00-0500",
+                "unknownTime": false
+              },
+              "festival": false,
+              "ticketing": [],
+              "artistNameTitle": "Kiosk",
+              "carouselArtistGid": "42o3S5oDd4Q4YyMNRmN5oS",
+              "carouselImage": "https://i.scdn.co/image/ab6761610000e5eb2aefe84419347749aec535e2",
+              "carouselArtistName": "Kiosk",
+              "isParent": true,
+              "category": "CONCERT",
+              "isFirstParty": false,
+              "ticketers": [
+                {
+                  "partnerDisplayName": "Songkick",
+                  "url": "https://www.songkick.com/concerts/41603825-kiosk-the-band-at-union-stage?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                  "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png",
+                  "type": "on-sale"
+                }
+              ]
+            },
+            "clickThruUrl": "https://www.songkick.com/concerts/41603825-kiosk-the-band-at-union-stage?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+            "source": "popular",
+            "nearUser": true,
+            "clickThrus": [
+              {
+                "partnerDisplayName": "Songkick",
+                "url": "https://www.songkick.com/concerts/41603825-kiosk-the-band-at-union-stage?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png"
+              }
+            ]
+          }
+        ],
+        "source": "popular"
+      },
+      {
+        "artists": [
+          "5YzKdg0nDLRhfn7BYZzqCS"
+        ],
+        "venue": "Dutch's Daughters",
+        "location": "Washington",
+        "openingDate": "2023-12-21T12:00:00-0500",
+        "closingDate": "2023-12-21T12:00:00-0500",
+        "concerts": [
+          {
+            "concert": {
+              "id": "5inAKJDC6o0vHTFaXjJlBl",
+              "artistUris": [
+                "spotify:artist:5YzKdg0nDLRhfn7BYZzqCS"
+              ],
+              "artists": [
+                {
+                  "uri": "spotify:artist:5YzKdg0nDLRhfn7BYZzqCS",
+                  "name": "Mike Kuster",
+                  "imageUri": "https://i.scdn.co/image/ab67616100005174396221e022c4f536d53068f0",
+                  "topTrackUri": "spotify:track:4KlVQVT6bwEGhC4Co4vnc4",
+                  "bio": "Mike Kuster&#39;s albums and songwriting reflect the classic traditional country music he grew up hearing. His music earned him The Independent Music Network named Mike its Country Impact Artists of 2022, and awarded &#34;<a href=\"spotify:track:38SmV4aVScQWU57xC2SWWC\" data-name=\"Daddy&#39;s Blue Jean Jacket\">Daddy&#39;s Blue Jean Jacket</a>&#34; Song of the Year for 2021. \n\n <a href=\"spotify:playlist:0tRfwseQwICxjynjpmCpen\" data-name=\"Country Music France Top 30 playlist\">Country Music France Top 30 playlist</a> summarized Mike&#39;s latest album, &#34;If country music means relatable songs about real life, authenticity, quality of the songwriting and of course excellent instrumentation, then &#39;<a href=\"spotify:album:0HsM2ejgiIVZvMKhD7xwxF\" data-name=\"Country So Fresh You Have To Check Your Boots\">Country So Fresh You Have To Check Your Boots</a>&#39; is an album perfectly representative of the genre, that will be highly appreciated by all those who love traditional country.&#34;\n\nMike&#39;s debut album, <a href=\"spotify:album:1SmHhWlj51UIe1hNI33Gtr\" data-name=\"Better Late Than Never\">Better Late Than Never</a>, was named one of 2022&#39;s Essential Albums by <a href=\"spotify:playlist:7mfYm0btgVvLXdeC7wiV7K\" data-name=\"Saving Country Music&#39;s Top 25 Current Playlist\">Saving Country Music&#39;s Top 25 Current Playlist</a>, The Balcony Show, and <a href=\"spotify:playlist:0tRfwseQwICxjynjpmCpen\" data-name=\"Country Music France Top 30 playlist\">Country Music France Top 30 playlist</a>. \n\nDr. Ford produced both of Mike&#39;s albums in Nashville. They recruited some of the best musicians around to support Mike&#39;s songs. They include Chris Condon (guitars), Caleb Mundy (bass guitar), <a href=\"spotify:artist:1Qjp7X9DkOL5ZZ9atAKxK6\" data-name=\"Smith Curry\">Smith Curry</a> (pedal steel guitar and dobro), Gary Carter (steel guitar), and <a href=\"spotify:artist:1l5b0hxCDTDF6cXYa3h5wk\" data-name=\"Michael Cleveland\">Michael Cleveland</a> (fiddle and mandolin). \n\n<a href=\"spotify:playlist:7mfYm0btgVvLXdeC7wiV7K\" data-name=\"Saving Country Music&#39;s Top 25 Current Playlist\">Saving Country Music&#39;s Top 25 Current Playlist</a> wrote, &#34;To sing country, you have to live country, and that’s what makes the music of Mike Kuster so much more meaningful. It comes with that real life, lived-in and loved aspect that you just don’t get from the antiseptic and formulaic notions of big radio singles.&#34;",
+                  "id": "5YzKdg0nDLRhfn7BYZzqCS"
+                }
+              ],
+              "date": "2023-12-21T12:00:00-0500",
+              "title": "Mike Kuster at Dutch's Daughters (December 21, 2023)",
+              "location": "Washington",
+              "venue": "Dutch's Daughters",
+              "lat": 39.40841,
+              "lon": -77.43932,
+              "partnerConcerts": [
+                {
+                  "partnerId": "songkick",
+                  "concertId": "songkick:events:41556435"
+                }
+              ],
+              "startDate": {
+                "date": "2023-12-21T17:00:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-21T12:00:00-0500",
+                "unknownTime": false
+              },
+              "festival": false,
+              "ticketing": [],
+              "artistNameTitle": "Mike Kuster",
+              "carouselArtistGid": "5YzKdg0nDLRhfn7BYZzqCS",
+              "carouselImage": "https://i.scdn.co/image/ab6761610000e5eb396221e022c4f536d53068f0",
+              "carouselArtistName": "Mike Kuster",
+              "isParent": true,
+              "category": "CONCERT",
+              "isFirstParty": false,
+              "ticketers": [
+                {
+                  "partnerDisplayName": "Songkick",
+                  "url": "https://www.songkick.com/concerts/41556435-mike-kuster-at-dutchs-daughters?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                  "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png",
+                  "type": "on-sale"
+                }
+              ]
+            },
+            "clickThruUrl": "https://www.songkick.com/concerts/41556435-mike-kuster-at-dutchs-daughters?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+            "source": "popular",
+            "nearUser": true,
+            "clickThrus": [
+              {
+                "partnerDisplayName": "Songkick",
+                "url": "https://www.songkick.com/concerts/41556435-mike-kuster-at-dutchs-daughters?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png"
+              }
+            ]
+          }
+        ],
+        "source": "popular"
+      },
+      {
+        "artists": [
+          "2c6geVFkxNT2BKQyHUvnT3"
+        ],
+        "venue": "Songbyrd",
+        "location": "Washington D.C.",
+        "openingDate": "2023-12-21T19:00:00-0500",
+        "closingDate": "2023-12-21T19:00:00-0500",
+        "concerts": [
+          {
+            "concert": {
+              "id": "7csddTYoL7KST43h5pQ6dx",
+              "artistUris": [
+                "spotify:artist:2c6geVFkxNT2BKQyHUvnT3"
+              ],
+              "artists": [
+                {
+                  "uri": "spotify:artist:2c6geVFkxNT2BKQyHUvnT3",
+                  "name": "Avery Wilson",
+                  "imageUri": "https://i.scdn.co/image/ab67616100005174278472a97790883c322228d2",
+                  "topTrackUri": "spotify:track:5kRwRpU0ah48DmRfxARPHt",
+                  "bio": "A  R&amp;B singer and songwriter, Avery Wilson utilized early support from Clive Davis &amp; major-label RCA. Wilson hit Billboard&#39;s Hot R&amp;B Songs chart with his first official single, &#34;If I Have To&#34; (2015), and released a couple additional singles for RCA prior to going independent with FYI (2018).\n\nOriginally from Hamden, Connecticut, Avery Wilson began performing at open-mike events organized by his father and a few years later co-won a New York talent competition for teenagers. &#34;Ringtone,&#34; a demo his father circulated to local and regional radio stations, received some airplay. \n\n&#34;If I Have To,&#34; a dramatic ballad created  Rodney Jerkins, and Kirby Lauryen, was released as his first proper single in May 2015 and reached number 18 on the Billboard Hot R&amp;B Songs chart. &#34;Change My Mind,&#34; featuring Migos, arrived a few months later. \n\nAvery  Continued to Cross Paths with Super Producers and SongWriters Grammy Award Winning Claude Kelly, Chuck Harmony, Damon Thomas, And James Fauntleroy to work on his upcoming new music.  Avery will be releasing New music 2023-2024\n\n",
+                  "id": "2c6geVFkxNT2BKQyHUvnT3"
+                }
+              ],
+              "date": "2023-12-21T19:00:00-0500",
+              "title": "Avery Wilson: Kiss The Sky Tour",
+              "location": "Washington D.C.",
+              "venue": "Songbyrd",
+              "lat": 38.9101984,
+              "lon": -76.9964311,
+              "partnerConcerts": [
+                {
+                  "partnerId": "dice",
+                  "concertId": "266466"
+                }
+              ],
+              "startDate": {
+                "date": "2023-12-22T00:00:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-21T19:00:00-0500",
+                "unknownTime": false
+              },
+              "festival": false,
+              "ticketing": [],
+              "artistNameTitle": "Avery Wilson",
+              "carouselArtistGid": "2c6geVFkxNT2BKQyHUvnT3",
+              "carouselImage": "https://i.scdn.co/image/ab6761610000e5eb278472a97790883c322228d2",
+              "carouselArtistName": "Avery Wilson",
+              "isParent": true,
+              "category": "CONCERT",
+              "isFirstParty": false,
+              "ticketers": [
+                {
+                  "partnerDisplayName": "DICE",
+                  "url": "https://dice.fm/partner/spotify/event/9ko67-avery-wilson-kiss-the-sky-tour-21st-dec-songbyrd-washington-dc-tickets",
+                  "imageURL": "https://tickets.spotifycdn.com/partner-assets/dice.png",
+                  "type": "on-sale"
+                }
+              ]
+            },
+            "clickThruUrl": "https://dice.fm/partner/spotify/event/9ko67-avery-wilson-kiss-the-sky-tour-21st-dec-songbyrd-washington-dc-tickets",
+            "source": "popular",
+            "nearUser": true,
+            "clickThrus": [
+              {
+                "partnerDisplayName": "DICE",
+                "url": "https://dice.fm/partner/spotify/event/9ko67-avery-wilson-kiss-the-sky-tour-21st-dec-songbyrd-washington-dc-tickets",
+                "imageURL": "https://tickets.spotifycdn.com/partner-assets/dice.png"
+              }
+            ]
+          }
+        ],
+        "source": "popular"
+      },
+      {
+        "artists": [
+          "1q7m1DacLfRgt38Wdin4yH"
+        ],
+        "venue": "Rams Head On Stage",
+        "location": "Annapolis",
+        "openingDate": "2023-12-21T19:30:00-0500",
+        "closingDate": "2023-12-21T19:30:00-0500",
+        "concerts": [
+          {
+            "concert": {
+              "id": "7JaDv8FPVRPM3BEWFmXe4T",
+              "artistUris": [
+                "spotify:artist:1q7m1DacLfRgt38Wdin4yH"
+              ],
+              "artists": [
+                {
+                  "uri": "spotify:artist:1q7m1DacLfRgt38Wdin4yH",
+                  "name": "Zebra",
+                  "imageUri": "https://i.scdn.co/image/ab6772690000dd22d8a33cd5855b60ca70a13664",
+                  "topTrackUri": "spotify:track:3eGzLCZfCJdoOEq5miJ2VM",
+                  "id": "1q7m1DacLfRgt38Wdin4yH"
+                }
+              ],
+              "date": "2023-12-21T19:30:00-0500",
+              "title": "Zebra",
+              "location": "Annapolis",
+              "venue": "Rams Head On Stage",
+              "lat": 38.978141699999,
+              "lon": -76.4943976,
+              "partnerConcerts": [
+                {
+                  "partnerId": "axs",
+                  "concertId": "498974"
+                }
+              ],
+              "startDate": {
+                "date": "2023-12-22T00:30:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-21T19:30:00-0500",
+                "unknownTime": false
+              },
+              "festival": false,
+              "ticketing": [],
+              "artistNameTitle": "Zebra",
+              "carouselArtistGid": "1q7m1DacLfRgt38Wdin4yH",
+              "carouselImage": "https://i.scdn.co/image/ab6772690000dd22d8a33cd5855b60ca70a13664",
+              "carouselArtistName": "Zebra",
+              "isParent": true,
+              "category": "CONCERT",
+              "isFirstParty": false,
+              "ticketers": [
+                {
+                  "partnerDisplayName": "AXS",
+                  "url": "https://www.axs.com/events/498974/zebra-tickets?cid=affspotify",
+                  "imageURL": "https://tickets.spotifycdn.com/partner-assets/axs.png",
+                  "type": "on-sale"
+                }
+              ]
+            },
+            "clickThruUrl": "https://www.axs.com/events/498974/zebra-tickets?cid=affspotify",
+            "source": "popular",
+            "nearUser": true,
+            "clickThrus": [
+              {
+                "partnerDisplayName": "AXS",
+                "url": "https://www.axs.com/events/498974/zebra-tickets?cid=affspotify",
+                "imageURL": "https://tickets.spotifycdn.com/partner-assets/axs.png"
+              }
+            ]
+          }
+        ],
+        "source": "popular"
+      },
+      {
+        "artists": [
+          "3ib2oPht9T5y9kjQm3h1Lu"
+        ],
+        "venue": "Keystone Korner",
+        "location": "Baltimore",
+        "openingDate": "2023-12-21T19:30:00-0500",
+        "closingDate": "2023-12-21T19:30:00-0500",
+        "concerts": [
+          {
+            "concert": {
+              "id": "1ursLM2n9S6pOKz8DfKJjI",
+              "artistUris": [
+                "spotify:artist:3ib2oPht9T5y9kjQm3h1Lu"
+              ],
+              "artists": [
+                {
+                  "uri": "spotify:artist:3ib2oPht9T5y9kjQm3h1Lu",
+                  "name": "Warren Wolf",
+                  "imageUri": "https://i.scdn.co/image/ab67616d00001e028678f8f5bfd28c10eb6d19e0",
+                  "topTrackUri": "spotify:track:4C30Agn7udqOqsnIGxhyYa",
+                  "id": "3ib2oPht9T5y9kjQm3h1Lu"
+                }
+              ],
+              "date": "2023-12-21T19:30:00-0500",
+              "title": "Warren Wolf at Keystone Korner (December 21, 2023)",
+              "location": "Baltimore",
+              "venue": "Keystone Korner",
+              "lat": 39.28249,
+              "lon": -76.59793,
+              "partnerConcerts": [
+                {
+                  "partnerId": "songkick",
+                  "concertId": "songkick:events:41540859"
+                }
+              ],
+              "startDate": {
+                "date": "2023-12-22T00:30:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-21T19:30:00-0500",
+                "unknownTime": false
+              },
+              "festival": false,
+              "ticketing": [],
+              "artistNameTitle": "Warren Wolf",
+              "carouselArtistGid": "3ib2oPht9T5y9kjQm3h1Lu",
+              "carouselImage": "https://i.scdn.co/image/ab67616d0000b2738678f8f5bfd28c10eb6d19e0",
+              "carouselArtistName": "Warren Wolf",
+              "isParent": true,
+              "category": "CONCERT",
+              "isFirstParty": false,
+              "ticketers": [
+                {
+                  "partnerDisplayName": "Songkick",
+                  "url": "https://www.songkick.com/concerts/41540859-warren-wolf-at-keystone-korner?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                  "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png",
+                  "type": "on-sale"
+                }
+              ]
+            },
+            "clickThruUrl": "https://www.songkick.com/concerts/41540859-warren-wolf-at-keystone-korner?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+            "source": "popular",
+            "nearUser": true,
+            "clickThrus": [
+              {
+                "partnerDisplayName": "Songkick",
+                "url": "https://www.songkick.com/concerts/41540859-warren-wolf-at-keystone-korner?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png"
+              }
+            ]
+          }
+        ],
+        "source": "popular"
+      },
+      {
+        "artists": [
+          "0kojSSqjZ9LAAHpNwYObKb",
+          "27g3ZgvYeMwpDSPLCt9jcK"
+        ],
+        "venue": "The Rockwell Baltimore",
+        "location": "Baltimore",
+        "openingDate": "2023-12-21T20:00:00-0500",
+        "closingDate": "2023-12-21T20:00:00-0500",
+        "concerts": [
+          {
+            "concert": {
+              "id": "6K7yBn0dn1X8TnK92nMoGk",
+              "artistUris": [
+                "spotify:artist:0kojSSqjZ9LAAHpNwYObKb",
+                "spotify:artist:27g3ZgvYeMwpDSPLCt9jcK"
+              ],
+              "artists": [
+                {
+                  "uri": "spotify:artist:0kojSSqjZ9LAAHpNwYObKb",
+                  "name": "Runnit",
+                  "imageUri": "https://i.scdn.co/image/ab67616100005174d285064751140d3bda25beb7",
+                  "topTrackUri": "spotify:track:4gWvFjp9fFZ77mOW5FUaDh",
+                  "bio": "Runnit is Nick Noel, a DJ/Producer out of Baltimore mixing bass music, rap and trap influenced electronic music.\n\nIn addition to pushing his own music, he is the co-owner of Partica Artist Group, a label and community that supports innovative Bass Music. \n\nThe future of Runnit is to push the boundaries of sound design and inspire others to create without limits.\n ",
+                  "id": "0kojSSqjZ9LAAHpNwYObKb"
+                },
+                {
+                  "uri": "spotify:artist:27g3ZgvYeMwpDSPLCt9jcK",
+                  "name": "Dink",
+                  "imageUri": "https://i.scdn.co/image/b9286ec260630857f76b4e45877cd9c2c79a0cf3",
+                  "id": "27g3ZgvYeMwpDSPLCt9jcK"
+                }
+              ],
+              "date": "2023-12-21T20:00:00-0500",
+              "title": "Runnit, risik, Dink, Gunnar Nash, and 1 more… at The Rockwell Baltimore (December 21, 2023)",
+              "location": "Baltimore",
+              "venue": "The Rockwell Baltimore",
+              "lat": 39.28334,
+              "lon": -76.59367,
+              "partnerConcerts": [
+                {
+                  "partnerId": "songkick",
+                  "concertId": "songkick:events:41615497"
+                }
+              ],
+              "startDate": {
+                "date": "2023-12-22T01:00:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-21T20:00:00-0500",
+                "unknownTime": false
+              },
+              "festival": false,
+              "ticketing": [],
+              "artistNameTitle": "Runnit, Dink",
+              "carouselArtistGid": "0kojSSqjZ9LAAHpNwYObKb",
+              "carouselImage": "https://i.scdn.co/image/ab6761610000e5ebd285064751140d3bda25beb7",
+              "carouselArtistName": "Runnit",
+              "isParent": true,
+              "category": "CONCERT",
+              "isFirstParty": false,
+              "ticketers": [
+                {
+                  "partnerDisplayName": "Songkick",
+                  "url": "https://www.songkick.com/concerts/41615497-runnit-at-rockwell-baltimore?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                  "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png",
+                  "type": "on-sale"
+                }
+              ]
+            },
+            "clickThruUrl": "https://www.songkick.com/concerts/41615497-runnit-at-rockwell-baltimore?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+            "source": "popular",
+            "nearUser": true,
+            "clickThrus": [
+              {
+                "partnerDisplayName": "Songkick",
+                "url": "https://www.songkick.com/concerts/41615497-runnit-at-rockwell-baltimore?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png"
+              }
+            ]
+          }
+        ],
+        "source": "popular"
+      },
+      {
+        "artists": [
+          "3rCd7KCezai2nGe2pPREMU"
+        ],
+        "venue": "Gramophone Dc",
+        "location": "Washington",
+        "openingDate": "2023-12-21T21:00:00-0500",
+        "closingDate": "2023-12-21T21:00:00-0500",
+        "concerts": [
+          {
+            "concert": {
+              "id": "5s29WZLTtwFk5RMntWfUOE",
+              "artistUris": [
+                "spotify:artist:3rCd7KCezai2nGe2pPREMU"
+              ],
+              "artists": [
+                {
+                  "uri": "spotify:artist:3rCd7KCezai2nGe2pPREMU",
+                  "name": "Saeed Younan",
+                  "imageUri": "https://i.scdn.co/image/ab6761610000517478112a230eb86789d39bf575",
+                  "topTrackUri": "spotify:track:0u1V5xw0tY4bVtMjjGSuee",
+                  "bio": "A world class globe-trotting DJ, a recording artist, a sought-after remix producer, and head of his own record label (Younan Music), Saeed Younan has excelled as a true artist in the global dance scene. As a DJ, Saeed’s performances are renowned for his technical abilities and precision. He effortlessly weaves and morphs tracks together into a seamless blend of house and techno. Enhancing his music into a warm and sexy vibe, while building momentum by allowing the music to ebb and swell. As DJ MAG puts it &quot;Saeed Younan is one of the few DJ&#39;s that really know how to serve it up well&quot;. No surprise why Carl Cox chose Saeed as his goto DJ to open for all his US tour dates, including his Las Vegas residency (2014 &amp; 2015). Carl Cox also invited him to play his arena in numerous festivals, including EDC Las Vegas, Ultra Miami, Electric Forest, Escapade Canada, Digital Dreams Canada, and the legendary closing of SPACE Ibiza final chapter (September 2016).\nIn testimony to his worldwide appeal, Saeed was nominated one of America’s Top 100 DJ’s, entering America’s Best Top 50 DJ Poll six years in a row (DJ Times Magazine U.S.A). Beatport nominate Saeed Younan for best tech-house track (Beatport award). He was also nominated for Best Breakthrough DJ at the 2003 Dance Star Awards. \nAs a producer, He&#39;s had numerous top 10 singles on Beatport, Traxsource and other reputable download music services.  \n",
+                  "id": "3rCd7KCezai2nGe2pPREMU"
+                }
+              ],
+              "date": "2023-12-21T21:00:00-0500",
+              "title": "Saeed Younan at Gramophone Dc (December 21, 2023)",
+              "location": "Washington",
+              "venue": "Gramophone Dc",
+              "lat": 38.91629,
+              "lon": -77.02151,
+              "partnerConcerts": [
+                {
+                  "partnerId": "songkick",
+                  "concertId": "songkick:events:41601860"
+                }
+              ],
+              "startDate": {
+                "date": "2023-12-22T02:00:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-21T21:00:00-0500",
+                "unknownTime": false
+              },
+              "festival": false,
+              "ticketing": [],
+              "artistNameTitle": "Saeed Younan",
+              "carouselArtistGid": "3rCd7KCezai2nGe2pPREMU",
+              "carouselImage": "https://i.scdn.co/image/ab6761610000e5eb78112a230eb86789d39bf575",
+              "carouselArtistName": "Saeed Younan",
+              "isParent": true,
+              "category": "CONCERT",
+              "isFirstParty": false,
+              "ticketers": [
+                {
+                  "partnerDisplayName": "Songkick",
+                  "url": "https://www.songkick.com/concerts/41601860-saeed-younan-at-gramophone-dc?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                  "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png",
+                  "type": "on-sale"
+                }
+              ]
+            },
+            "clickThruUrl": "https://www.songkick.com/concerts/41601860-saeed-younan-at-gramophone-dc?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+            "source": "popular",
+            "nearUser": true,
+            "clickThrus": [
+              {
+                "partnerDisplayName": "Songkick",
+                "url": "https://www.songkick.com/concerts/41601860-saeed-younan-at-gramophone-dc?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png"
+              }
+            ]
+          }
+        ],
+        "source": "popular"
+      },
+      {
+        "artists": [
+          "5QUHrSea6F2nhn9veAq4wQ"
+        ],
+        "venue": "Flash",
+        "location": "Washington",
+        "openingDate": "2023-12-21T22:00:00-0500",
+        "closingDate": "2023-12-21T22:00:00-0500",
+        "concerts": [
+          {
+            "concert": {
+              "id": "2vyP62A5oDXly4QcFT81E8",
+              "artistUris": [
+                "spotify:artist:5QUHrSea6F2nhn9veAq4wQ"
+              ],
+              "artists": [
+                {
+                  "uri": "spotify:artist:5QUHrSea6F2nhn9veAq4wQ",
+                  "name": "X-COAST",
+                  "imageUri": "https://i.scdn.co/image/ab67616100005174fcf9b229c5095cf430826564",
+                  "topTrackUri": "spotify:track:7cdG5Q9KkEphwI5FcenOUV",
+                  "id": "5QUHrSea6F2nhn9veAq4wQ"
+                }
+              ],
+              "date": "2023-12-21T22:00:00-0500",
+              "title": "CONTACT: X-Coast",
+              "location": "Washington",
+              "venue": "Flash",
+              "lat": 38.916286,
+              "lon": -77.021385,
+              "partnerConcerts": [
+                {
+                  "partnerId": "residentadvisor",
+                  "concertId": "1805972"
+                }
+              ],
+              "startDate": {
+                "date": "2023-12-22T03:00:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-21T22:00:00-0500",
+                "unknownTime": false
+              },
+              "endDate": {
+                "date": "2023-12-22T08:00:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-22T03:00:00-0500",
+                "unknownTime": false
+              },
+              "festival": false,
+              "ticketing": [],
+              "artistNameTitle": "X-COAST",
+              "carouselArtistGid": "5QUHrSea6F2nhn9veAq4wQ",
+              "carouselImage": "https://i.scdn.co/image/ab6761610000e5ebfcf9b229c5095cf430826564",
+              "carouselArtistName": "X-COAST",
+              "isParent": true,
+              "category": "CONCERT",
+              "isFirstParty": false,
+              "ticketers": [
+                {
+                  "partnerDisplayName": "Resident Advisor",
+                  "url": "https://ra.co/events/1805972?sharedId=openhub&subId1=&subId3=2vyP62A5oDXly4QcFT81E8&partnerId=residentadvisor",
+                  "imageURL": "https://tickets.spotifycdn.com/partner-assets/residentadvisor.png",
+                  "type": "on-sale"
+                }
+              ]
+            },
+            "clickThruUrl": "https://ra.co/events/1805972?sharedId=openhub&subId1=&subId3=2vyP62A5oDXly4QcFT81E8&partnerId=residentadvisor",
+            "source": "popular",
+            "nearUser": true,
+            "clickThrus": [
+              {
+                "partnerDisplayName": "Resident Advisor",
+                "url": "https://ra.co/events/1805972?sharedId=openhub&subId1=&subId3=2vyP62A5oDXly4QcFT81E8&partnerId=residentadvisor",
+                "imageURL": "https://tickets.spotifycdn.com/partner-assets/residentadvisor.png"
+              }
+            ]
+          }
+        ],
+        "source": "popular"
+      },
+      {
+        "artists": [
+          "6AKT0nNWeP4Eb7ntkeBOj9",
+          "58c8ftGgtwcSIoZcHx45pd"
+        ],
+        "venue": "The Atlantis",
+        "location": "Washington",
+        "openingDate": "2023-12-22T18:30:00-0500",
+        "closingDate": "2023-12-22T18:30:00-0500",
+        "concerts": [
+          {
+            "concert": {
+              "id": "5CAkxF85Bl6Ik0Ao7rRa9Q",
+              "artistUris": [
+                "spotify:artist:6AKT0nNWeP4Eb7ntkeBOj9",
+                "spotify:artist:58c8ftGgtwcSIoZcHx45pd"
+              ],
+              "artists": [
+                {
+                  "uri": "spotify:artist:6AKT0nNWeP4Eb7ntkeBOj9",
+                  "name": "Kendall Street Company",
+                  "imageUri": "https://i.scdn.co/image/ab67616100005174fde225a9ab52f69ffbd1cb7d",
+                  "topTrackUri": "spotify:track:3OAIwCMixeP0WrNC9WMxpR",
+                  "bio": "Virginia&#39;s Kendall Street Company are no strangers to having a wild time. The genre-fluid, eclectic rock ensemble has drawn varied comparisons to the dynamic jams of <a href=\"spotify:artist:7mQilAy42MqNPqUFqK4Z0o\" data-name=\"Umphrey&#39;s McGee\">Umphrey&#39;s McGee</a> and <a href=\"spotify:artist:54SHZF2YS3W87xuJKSvOVf\" data-name=\"Widespread Panic\">Widespread Panic</a>, songwriting of <a href=\"spotify:artist:0nJUwPwC9Ti4vvuJ0q3MfT\" data-name=\"John Prine\">John Prine</a>, experimental psychedelia of <a href=\"spotify:artist:0k17h0D3J5VfsdmQ1iZtE9\" data-name=\"Pink Floyd\">Pink Floyd</a>, progressive jazz-infused rock of <a href=\"spotify:artist:6ra4GIOgCZQZMOaUECftGN\" data-name=\"Frank Zappa\">Frank Zappa</a>, and off-color humor of <a href=\"spotify:artist:3u1ulLq00Y3bfmq9FfjsPu\" data-name=\"Ween\">Ween</a> and <a href=\"spotify:artist:6zB02lwP6L6ZH32nggQiJT\" data-name=\"They Might Be Giants\">They Might Be Giants</a>. Including elements of crowd participation, off-the-cuff comedic bits, haphazard choreography, musical improvisation, and surprise musical guests, each Kendall Street Company concert is an experience unlike any other. You&#39;ll laugh, you&#39;ll cry. Just remember to stay hydrated.\n\nIn addition to their reputation as must-see live performers, the Company&#39;s prolific immunity to writer&#39;s block has led them to release over 100 original songs between 14 releases over a period of just 7 years, with much more to come in 2023. You can also find a massive selection of live shows on www.kendallstreetcompany.com and nugs.net. These often include unreleased and improvised tracks, as well as covers ranging from the <a href=\"spotify:artist:4TMHGUX5WI7OOm53PqSDAT\" data-name=\"Grateful Dead\">Grateful Dead</a> to <a href=\"spotify:artist:0UKfenbZb15sqhfPC6zbt3\" data-name=\"DEVO\">DEVO</a> to <a href=\"spotify:artist:6ogn9necmbUdCppmNnGOdi\" data-name=\"Alanis Morissette\">Alanis Morissette</a> to <a href=\"spotify:artist:6GMYJwaziB4ekv1Y6wCDWS\" data-name=\"Soulja Boy\">Soulja Boy</a>. They have performed at festivals including Lockn&#39;, Summer Camp, High Sierra, Resonance, Floydfest, Some Kind of Jam, and Rooster Walk, and have shared a stage with <a href=\"spotify:artist:5tkITWzssc9z9hu7ZEOCXz\" data-name=\"Goose\">Goose</a>, <a href=\"spotify:artist:7mQilAy42MqNPqUFqK4Z0o\" data-name=\"Umphrey&#39;s McGee\">Umphrey&#39;s McGee</a>, <a href=\"spotify:artist:22nCgEikczPLtGfDdpRroh\" data-name=\"Papadosio\">Papadosio</a>, <a href=\"spotify:artist:52NOvMXEjgf8MQl0qop2dl\" data-name=\"Pigeons Playing Ping Pong\">Pigeons Playing Ping Pong</a>, <a href=\"spotify:artist:2dU9NlAClSjQtKoVgUQwdz\" data-name=\"Leftover Salmon\">Leftover Salmon</a>, <a href=\"spotify:artist:7yTltkMBvChBkA86Tz8WfW\" data-name=\"The Infamous Stringdusters\">The Infamous Stringdusters</a>, <a href=\"spotify:artist:3kzqfNqrlEwieWGqRFiQso\" data-name=\"Big Something\">Big Something</a>, and <a href=\"spotify:artist:35oDRMIqI8e2sWuTpq56Gz\" data-name=\"Melvin Seals\">Melvin Seals</a> &amp; JGB.\n ",
+                  "id": "6AKT0nNWeP4Eb7ntkeBOj9"
+                },
+                {
+                  "uri": "spotify:artist:58c8ftGgtwcSIoZcHx45pd",
+                  "name": "Litz",
+                  "imageUri": "https://i.scdn.co/image/ab676161000051740427c628a347fd90444e5449",
+                  "bio": "A decade ago, Four-headed funktronic giant LITZ began leading listeners on energetically-charged adventures through feeling and sound. As they sharpened their showmanship and songcraft in the Maryland jam scene, LITZ ventured forth, opening for names like Papadosio and Lotus while adding Electric Forest, Resonance, and Peach to their festival accolades. \n\nThe foursome–Austin Litz (keyboards, saxophone, vocals), Logan Litz (bass), Dan Gallerman (guitar), and Nick Thrasher (Drums)--are constantly producing new tracks that defy categorization musically and metaphysically. Combining funky horn riffs, wah-wah keys, pounding bass, flute, and sensational guitar, they curate a sound that isn’t decisively funk, jam, go-go, or soul but irrefutably and exquisitely LITZ.\n\nOn stage, LITZ are custodians of the audience’s dreams, fears, and hopes. Their mesmerizing synergy and improvisation inspire authentic connection, reminding us that music, more than a sound, is a feeling. No two LITZ experiences are identical. As they riff and take risks, LITZ rocks their audiences’ senses and souls, pulling listeners into new realms of emotion. Ecstatic introspection, laughs with friends, and dances shared with strangers are equally part of the LITZ odyssey.\n\nWebsite: www.LITZmusic.com\nYouTube: www.YouTube.com/LITZjams",
+                  "id": "58c8ftGgtwcSIoZcHx45pd"
+                }
+              ],
+              "date": "2023-12-22T18:30:00-0500",
+              "title": "Kendall Street Company",
+              "location": "Washington",
+              "venue": "The Atlantis",
+              "lat": 38.91819,
+              "lon": -77.02241,
+              "partnerConcerts": [
+                {
+                  "partnerId": "ticketmaster",
+                  "concertId": "G5vfZ9geJZsbA"
+                }
+              ],
+              "startDate": {
+                "date": "2023-12-22T23:30:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-22T18:30:00-0500",
+                "unknownTime": false
+              },
+              "festival": false,
+              "ticketing": [],
+              "artistNameTitle": "Kendall Street Company, Litz",
+              "carouselArtistGid": "6AKT0nNWeP4Eb7ntkeBOj9",
+              "carouselImage": "https://i.scdn.co/image/ab6761610000e5ebfde225a9ab52f69ffbd1cb7d",
+              "carouselArtistName": "Kendall Street Company",
+              "isParent": true,
+              "category": "CONCERT",
+              "isFirstParty": false,
+              "ticketers": [
+                {
+                  "partnerDisplayName": "Ticketmaster",
+                  "url": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=openhub&subId1=&subId3=5CAkxF85Bl6Ik0Ao7rRa9Q&u=https%3A%2F%2Fwww.ticketmaster.com%2Fkendall-street-company-washington-district-of-columbia-12-22-2023%2Fevent%2F15005F50A6031605%3Futm_content%3Dhotevent",
+                  "imageURL": "https://tickets.spotifycdn.com/partner-assets/ticketmaster.png",
+                  "type": "on-sale"
+                }
+              ]
+            },
+            "clickThruUrl": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=openhub&subId1=&subId3=5CAkxF85Bl6Ik0Ao7rRa9Q&u=https%3A%2F%2Fwww.ticketmaster.com%2Fkendall-street-company-washington-district-of-columbia-12-22-2023%2Fevent%2F15005F50A6031605%3Futm_content%3Dhotevent",
+            "source": "popular",
+            "nearUser": true,
+            "clickThrus": [
+              {
+                "partnerDisplayName": "Ticketmaster",
+                "url": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=openhub&subId1=&subId3=5CAkxF85Bl6Ik0Ao7rRa9Q&u=https%3A%2F%2Fwww.ticketmaster.com%2Fkendall-street-company-washington-district-of-columbia-12-22-2023%2Fevent%2F15005F50A6031605%3Futm_content%3Dhotevent",
+                "imageURL": "https://tickets.spotifycdn.com/partner-assets/ticketmaster.png"
+              }
+            ]
+          }
+        ],
+        "source": "popular"
+      },
+      {
+        "artists": [
+          "5BrGYYrfP3agYhqDUFcSSM"
+        ],
+        "venue": "The Keystone Korner Baltimore",
+        "location": "Baltimore",
+        "openingDate": "2023-12-22T19:00:00-0500",
+        "closingDate": "2023-12-22T19:00:00-0500",
+        "concerts": [
+          {
+            "concert": {
+              "id": "26mb0hbm5awpBUcJb8JgU2",
+              "artistUris": [
+                "spotify:artist:5BrGYYrfP3agYhqDUFcSSM"
+              ],
+              "artists": [
+                {
+                  "uri": "spotify:artist:5BrGYYrfP3agYhqDUFcSSM",
+                  "name": "Marcus Johnson",
+                  "imageUri": "https://i.scdn.co/image/ab676161000051746e6bc232bed1c2a3da799cd9",
+                  "topTrackUri": "spotify:track:4jZCaGd8dbeuPy707up4g2",
+                  "bio": "WHO IS MARCUS JOHNSON?\nFor almost 20 years, Marcus has been an important piece in the Jazz scene. As an independent artist, he has paved his own way to the billboard charts, releasing over 15 albums including his groundbreaking 2008 Billboard Top 20 Contemporary Jazz FLO (For the Love Of) Anthology, which consisted of three distinct CDs -- FLO Chill, FLO Romance and FLO Standards - all chart Top 10 on Billboard Contemporary Jazz Charts simultaneously.\n                                                                              AUDIENCE\nMarcus’s core audience are Smooth Jazz/ R&amp;B lovers ages 45&#43; and showing strong growth in the 35 to 45 segment since he’s incorporated more elements of R&amp;B and Hip Hop influence into his performances. Having a deep connection to his audience is what fuels his longevity and success and gives him the ability to appeal to a wide range of crowd interests when on stage. From throwbacks to current “groovy” hits, his stage presence is tailored with one objective: to help you “Catch the FLO”.\nWith the release of his book, “FLO (For the Love Of)”, and the launch of FLO Wines, Johnson understands the importance of adding value to his offering. His brand is establishing itself as “Lifestyle Therapy” and he is focused on creating an experience and not just a performance. \n \n",
+                  "id": "5BrGYYrfP3agYhqDUFcSSM"
+                }
+              ],
+              "date": "2023-12-22T19:00:00-0500",
+              "title": "Marcus Johnson at The Keystone Korner Baltimore (December 22, 2023)",
+              "location": "Baltimore",
+              "venue": "The Keystone Korner Baltimore",
+              "lat": 39.28249,
+              "lon": -76.59793,
+              "partnerConcerts": [
+                {
+                  "partnerId": "songkick",
+                  "concertId": "songkick:events:41541374"
+                }
+              ],
+              "startDate": {
+                "date": "2023-12-23T00:00:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-22T19:00:00-0500",
+                "unknownTime": false
+              },
+              "festival": false,
+              "ticketing": [],
+              "artistNameTitle": "Marcus Johnson",
+              "carouselArtistGid": "5BrGYYrfP3agYhqDUFcSSM",
+              "carouselImage": "https://i.scdn.co/image/ab6761610000e5eb6e6bc232bed1c2a3da799cd9",
+              "carouselArtistName": "Marcus Johnson",
+              "isParent": true,
+              "category": "CONCERT",
+              "isFirstParty": false,
+              "ticketers": [
+                {
+                  "partnerDisplayName": "Songkick",
+                  "url": "https://www.songkick.com/concerts/41541374-marcus-johnson-at-keystone-korner-baltimore?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                  "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png",
+                  "type": "on-sale"
+                }
+              ]
+            },
+            "clickThruUrl": "https://www.songkick.com/concerts/41541374-marcus-johnson-at-keystone-korner-baltimore?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+            "source": "popular",
+            "nearUser": true,
+            "clickThrus": [
+              {
+                "partnerDisplayName": "Songkick",
+                "url": "https://www.songkick.com/concerts/41541374-marcus-johnson-at-keystone-korner-baltimore?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png"
+              }
+            ]
+          }
+        ],
+        "source": "popular"
+      },
+      {
+        "artists": [
+          "1w77QW6t2p7zrCEbgwk256"
+        ],
+        "venue": "Meyerhoff Symphony Hall",
+        "location": "Baltimore",
+        "openingDate": "2023-12-22T19:30:00-0500",
+        "closingDate": "2023-12-22T19:30:00-0500",
+        "concerts": [
+          {
+            "concert": {
+              "id": "3oJwLQ2H58qZ61Jlz5zobL",
+              "artistUris": [
+                "spotify:artist:1w77QW6t2p7zrCEbgwk256"
+              ],
+              "artists": [
+                {
+                  "uri": "spotify:artist:1w77QW6t2p7zrCEbgwk256",
+                  "name": "Baltimore Symphony Orchestra",
+                  "imageUri": "https://i.scdn.co/image/ab676161000051748164d80ddbb3465c322217c3",
+                  "topTrackUri": "spotify:track:0mckKt7m7LhaldB62PLWYx",
+                  "bio": "For over a century, the Baltimore Symphony Orchestra (BSO) has been recognized as one of America’s leading orchestras and one of Maryland’s most significant cultural institutions. Under the direction of music director Marin Alsop, the orchestra is internationally renowned and locally admired for its innovation, performances, recordings and educational outreach initiatives including OrchKids. Launched by Marin Alsop and the BSO in 2008, OrchKids provides children with educational resources and fosters social change.\n\nThe BSO is widely recognized for its highly acclaimed recordings, including a 2010 disc on the Decca label featuring Gershwin’s Piano Concerto in F and Rhapsody in Blue, as well as the 2017 Naxos release of Bernstein’s Symphonies Nos. 1 and 2. Both recordings were led by Alsop and feature pianist Jean-Yves Thibaudet. Alsop also led the BSO in its 2009 Naxos recording of Leonard Bernstein’s MASS. Recent releases include Prokofiev’s Romeo and Juliet with Alsop and Handel’s Messiah with conductor Edward Polochick and the Concert Artists of Baltimore Symphonic Chorale.\n\nThe Baltimore Symphony Orchestra performs annually for more than 350,000 people throughout the State of Maryland. Since 1982, the BSO has performed at the Joseph Meyerhoff Symphony Hall in Baltimore. In 2005, with the opening of The Music Center at Strathmore in North Bethesda, MD, the BSO became the nation’s first orchestra with year-round venues in two metropolitan areas.\n",
+                  "id": "1w77QW6t2p7zrCEbgwk256"
+                }
+              ],
+              "date": "2023-12-22T19:30:00-0500",
+              "title": "Baltimore Symphony Orchestra at Meyerhoff Symphony Hall (December 22, 2023)",
+              "location": "Baltimore",
+              "venue": "Meyerhoff Symphony Hall",
+              "lat": 39.30384,
+              "lon": -76.61897,
+              "partnerConcerts": [
+                {
+                  "partnerId": "songkick",
+                  "concertId": "songkick:events:41465762"
+                }
+              ],
+              "startDate": {
+                "date": "2023-12-23T00:30:00+0000",
+                "utcOffset": -5,
+                "localDate": "2023-12-22T19:30:00-0500",
+                "unknownTime": false
+              },
+              "festival": false,
+              "ticketing": [],
+              "artistNameTitle": "Baltimore Symphony Orchestra",
+              "carouselArtistGid": "1w77QW6t2p7zrCEbgwk256",
+              "carouselImage": "https://i.scdn.co/image/ab6761610000e5eb8164d80ddbb3465c322217c3",
+              "carouselArtistName": "Baltimore Symphony Orchestra",
+              "isParent": true,
+              "category": "CONCERT",
+              "isFirstParty": false,
+              "ticketers": [
+                {
+                  "partnerDisplayName": "Songkick",
+                  "url": "https://www.songkick.com/concerts/41465762-baltimore-symphony-orchestra-at-meyerhoff-symphony-hall?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                  "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png",
+                  "type": "on-sale"
+                }
+              ]
+            },
+            "clickThruUrl": "https://www.songkick.com/concerts/41465762-baltimore-symphony-orchestra-at-meyerhoff-symphony-hall?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+            "source": "popular",
+            "nearUser": true,
+            "clickThrus": [
+              {
+                "partnerDisplayName": "Songkick",
+                "url": "https://www.songkick.com/concerts/41465762-baltimore-symphony-orchestra-at-meyerhoff-symphony-hall?utm_source=8123&utm_medium=partner&utm_content=&utm_campaign=openhub",
+                "imageURL": "https://tickets.spotifycdn.com/partner-assets/songkick.png"
+              }
+            ]
+          }
+        ],
+        "source": "popular"
+      }
+    ],
+    "playlists": []
+  }

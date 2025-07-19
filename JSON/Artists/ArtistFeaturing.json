@@ -1,0 +1,203 @@
+{
+    "data": {
+      "artist": {
+        "id": "2w9zwq3AktTeYYMuhMjju8",
+        "uri": "spotify:artist:2w9zwq3AktTeYYMuhMjju8",
+        "profile": {
+          "name": "INNA"
+        },
+        "relatedContent": {
+          "featuring": {
+            "totalCount": 8,
+            "items": [
+              {
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO1ru5u8",
+                "id": "37i9dQZF1DZ06evO1ru5u8",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "This Is INNA",
+                "description": "This is INNA. The essential tracks, all in one playlist.",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO1ru5u8-default.jpg",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1E4zUNZhVINYCS",
+                "id": "37i9dQZF1E4zUNZhVINYCS",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "INNA Radio",
+                "description": "With Alexandra Stan, Akcent, Otilia and more",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://seeded-session-images.scdn.co/v2/img/122/secondary/artist/2w9zwq3AktTeYYMuhMjju8/en",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DXaXB8fQg7xif",
+                "id": "37i9dQZF1DXaXB8fQg7xif",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Dance Party",
+                "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> to the rhythm and move your feet!",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f00000002bee0bf3fd30b5317734205ab",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DWZQaaqNMbbXa",
+                "id": "37i9dQZF1DWZQaaqNMbbXa",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Dance Pop Hits",
+                "description": "Hit the dance floor with your favorite bops!",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f000000021deebf75d5abd0f11a3cea52",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DX0BcQWzuB7ZO",
+                "id": "37i9dQZF1DX0BcQWzuB7ZO",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Dance Hits",
+                "description": "All the <a href=\"spotify:genre:edm_dance\">big ones</a> with Creeds",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f0000000223728194acce68a135b2941b",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DX1kCIzMYtzum",
+                "id": "37i9dQZF1DX1kCIzMYtzum",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "EDM 2024",
+                "description": "Home is where the main stage is. 💗",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f00000002d726493b531d4e8f6910a969",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DWUn2FwhH1fMF",
+                "id": "37i9dQZF1DWUn2FwhH1fMF",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "mint Presents Best Dance Songs of 2023",
+                "description": "The best dance songs from around the world of 2023. Cover: Peggy Gou",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f000000026398240cfffb719a9d39d6b3",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "uri": "spotify:playlist:37i9dQZF1DX32NsLKyzScr",
+                "id": "37i9dQZF1DX32NsLKyzScr",
+                "owner": {
+                  "name": "Spotify"
+                },
+                "name": "Power Hour",
+                "description": "Tap it back or go for a spin with these uptempo tracks!",
+                "images": {
+                  "totalCount": 1,
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "url": "https://i.scdn.co/image/ab67706f00000002cb23f54d979311c1f323a056",
+                          "width": null,
+                          "height": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "extensions": []
+  }

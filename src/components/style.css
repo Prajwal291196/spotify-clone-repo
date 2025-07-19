@@ -1,0 +1,25 @@
+.scrollbar {
+    position: static;
+    scrollbar-width: thin;
+    scrollbar-color: transparent transparent;
+
+    &::-webkit-scrollbar {
+        width: 0;
+    }
+
+    &:hover::-webkit-scrollbar {
+        width: 12px;
+    }
+
+    &::-webkit-scrollbar-track {
+        background: transparent;
+    }
+
+    &::-webkit-scrollbar-thumb {
+        background: #555;
+    }
+
+    &::-webkit-scrollbar-thumb:hover {
+        background: #888;
+    }
+}

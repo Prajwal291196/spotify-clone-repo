@@ -1,0 +1,117 @@
+{
+    "concert": {
+      "concert": {
+        "id": "6PodeS6Nvq7AwacfxsxHKT",
+        "artistUris": [
+          "spotify:artist:3Isy6kedDrgPYoTS1dazA9"
+        ],
+        "artists": [
+          {
+            "uri": "spotify:artist:3Isy6kedDrgPYoTS1dazA9",
+            "name": "Sean Paul",
+            "imageUri": "https://i.scdn.co/image/ab6761610000517460c3e9abe7327c0097738f22",
+            "topTrackUri": "spotify:track:48QmG1dfvMuYLxMPt7KSRA",
+            "id": "3Isy6kedDrgPYoTS1dazA9"
+          }
+        ],
+        "date": "2023-04-16T20:00:00-0400",
+        "title": "Sean Paul - Scorcha Tour",
+        "location": "Silver Spring",
+        "venue": "The Fillmore Silver Spring",
+        "lat": 38.99734055,
+        "lon": -77.02746183,
+        "partnerConcerts": [
+          {
+            "partnerId": "ticketmaster",
+            "concertId": "G5vfZ90bcQkQE"
+          }
+        ],
+        "startDate": {
+          "date": "2023-04-17T00:00:00+0000",
+          "utcOffset": -4,
+          "localDate": "2023-04-16T20:00:00-0400",
+          "unknownTime": false
+        },
+        "festival": false,
+        "ticketing": [
+          {
+            "minPrice": "$45.00",
+            "maxPrice": "$85.00"
+          }
+        ],
+        "artistNameTitle": "Sean Paul",
+        "carouselArtistGid": "3Isy6kedDrgPYoTS1dazA9",
+        "carouselImage": "https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22",
+        "carouselArtistName": "Sean Paul",
+        "isParent": true,
+        "category": "CONCERT",
+        "isFirstParty": false,
+        "ticketers": [
+          {
+            "partnerDisplayName": "Ticketmaster",
+            "url": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=entity&subId1=null&subId3=6PodeS6Nvq7AwacfxsxHKT&u=https%3A%2F%2Fconcerts.livenation.com%2Fsean-paul-scorcha-tour-silver-spring-maryland-04-16-2023%2Fevent%2F15005E462D6866A7%3Futm_content%3Dhotevent",
+            "imageURL": "https://tickets.spotifycdn.com/partner-assets/ticketmaster.png",
+            "type": "on-sale"
+          }
+        ]
+      },
+      "clickThruUrl": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=entity&subId1=null&subId3=6PodeS6Nvq7AwacfxsxHKT&u=https%3A%2F%2Fconcerts.livenation.com%2Fsean-paul-scorcha-tour-silver-spring-maryland-04-16-2023%2Fevent%2F15005E462D6866A7%3Futm_content%3Dhotevent",
+      "clickThrus": [
+        {
+          "partnerDisplayName": "Ticketmaster",
+          "url": "https://ticketmaster.evyy.net/c/296934/271177/4272?sharedId=entity&subId1=null&subId3=6PodeS6Nvq7AwacfxsxHKT&u=https%3A%2F%2Fconcerts.livenation.com%2Fsean-paul-scorcha-tour-silver-spring-maryland-04-16-2023%2Fevent%2F15005E462D6866A7%3Futm_content%3Dhotevent",
+          "imageURL": "https://tickets.spotifycdn.com/partner-assets/ticketmaster.png"
+        }
+      ]
+    },
+    "artists": [
+      {
+        "uri": "spotify:artist:3Isy6kedDrgPYoTS1dazA9",
+        "name": "Sean Paul",
+        "imageUri": "https://i.scdn.co/image/ab6761610000517460c3e9abe7327c0097738f22",
+        "topTrackUri": "spotify:track:48QmG1dfvMuYLxMPt7KSRA",
+        "bio": "Jamaican dancehall singer and rapper Sean Paul broke into the global mainstream in the early 2000s with pop-friendly party jams like \"Get Busy\" from his Grammy-winning Dutty Rock album, plus the chart-topping smash \"Temperature.\" An early proponent of the dancehall pop movement, Paul also earned a reputation as a worthy guest star, appearing on <a href=\"spotify:artist:6vWDO969PvNqNYHIOW5v0m\">Beyoncé</a>'s hit \"Baby Boy,\" then enjoying a career resurgence in the latter part of the 2010s when he was introduced to a fresh generation of fans via high-profile collaborations with artists like <a href=\"spotify:artist:5WUlDfRSoLAfcVSX1WnrxN\">Sia</a>, <a href=\"spotify:artist:6MDME20pz9RveH9rEXvrOM\">Clean Bandit</a>, and <a href=\"spotify:artist:2RdwBSPQiwcmiDo9kixcl8\">Pharrell Williams</a>. His 2018 EP Mad Love: The Prequel thrust him back in the spotlight, boasting major hits like \"No Lie\" with <a href=\"spotify:artist:6M2wZ9GZgrQXHCFfjv46we\">Dua Lipa</a> and \"Mad Love\" with <a href=\"spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai\">David Guetta</a> and <a href=\"spotify:artist:4obzFoKoKRHIphyHzJ35G3\">Becky G</a>. Paul carried his success into the next decade with a barrage of singles including 2020's <a href=\"spotify:artist:4NHQUGzhtTLFvgF5SZesLK\">Tove Lo</a> collaboration \"Calling on Me\" and 2021's \"Dynamite\" with <a href=\"spotify:artist:5WUlDfRSoLAfcVSX1WnrxN\">Sia</a>.\r\n\nBorn Sean Paul Francis Henriques on January 9, 1973, the multi-ethnic Paul (his parents had Portuguese, Chinese, and Jamaican forebears) grew up comfortably in St. Andrew, Jamaica; his mother was a renowned painter. He was a skilled athlete, excelling in swimming and especially water polo, playing for the Jamaican national team in the latter. Although his education was enough to land him a prosperous career, dancehall music remained Paul's first love, particularly crafting rhythm tracks. He became a DJ after he began writing his own songs, patterning his style largely after <a href=\"spotify:artist:7hHDN8REbPLpv46ROortOM\">Super Cat</a> and finding a mentor in <a href=\"spotify:artist:1aKlct6687TD5QVZ1pPHea\">Don Yute</a>; he also found contacts in several members of the reggae-pop band <a href=\"spotify:artist:6qfKnsgz1CwyqA7lTdieRJ\">Third World</a> in 1993, which helped him foster business connections. \r\n\nPaul released his debut single, \"Baby Girl,\" with producer <a href=\"spotify:artist:4RPAm27zZnyxkEEpdWmrd0\">Jeremy Harding</a> in 1996; it proved a significant success, leading to further Jamaican hits like \"Nah Get No Bly (One More Try),\" \"Deport Them,\" \"Excite Me,\" \"Infiltrate,\" and \"Hackle Mi.\" In 1999, Sean Paul started to make inroads to American audiences; he was first commissioned to collaborate with fellow dancehall hitmaker <a href=\"spotify:artist:1pmixngtBJleMrGUG5o8DE\">Mr. Vegas</a> on a production for rapper <a href=\"spotify:artist:1HwM5zlC5qNWhJtM00yXzG\">DMX</a>; titled \"Here Comes the Boom,\" the song was included in director Hype Williams' film Belly. Also that year, Paul scored a Top Ten hit on the Billboard rap charts with \"Hot Gal Today.\"\r\n\nThat fall, Paul released his first album on <a href=\"spotify:search:label%3A%22VP+Records%22\">VP Records</a>. The sprawling Stage One collected many of his previous hit singles and compilation cuts, plus a few brand-new tracks. His breakthrough arrived in 2002 with sophomore effort, Dutty Rock (<a href=\"spotify:search:label%3A%22VP%22\">VP</a>/<a href=\"spotify:search:label%3A%22Atlantic%22\">Atlantic</a>). The Grammy-winning album featured the hit singles \"Get Busy,\" \"Gimme the Light,\" and \"Baby Boy\" with <a href=\"spotify:artist:6vWDO969PvNqNYHIOW5v0m\">Beyoncé</a>. In addition to topping the Canadian and U.S. Reggae charts, Dutty Rock entered the Billboard Top Ten and was certified multi-platinum. \r\n\nPaul followed with The Trinity (<a href=\"spotify:search:label%3A%22Atlantic%22\">Atlantic</a>) in 2005. The album peaked at number seven on the Billboard 200, his highest showing to date, and included chart hits like \"We Be Burnin',\" \"Temperature,\" and \"(When You Gonna) Give It Up to Me\" with <a href=\"spotify:artist:1vfezMIyCr4XUdYRaKIKi3\">Keyshia Cole</a>. Four years later he returned with Imperial Blaze. Featuring the singles \"So Fine\" and \"Hold My Hand\" with <a href=\"spotify:artist:63wjoROpeh5f11Qm93UiJ1\">Keri Hilson</a>, Imperial Blaze topped the Billboard rap chart, but did not capture the same mainstream attention as his prior two releases. The loose Odyssey Mixtape dropped in 2011 and was followed a year later by Tomahawk Technique, a more pop- and dance-oriented album with production from the likes of <a href=\"spotify:artist:7KUri7klyLaIFXLcuuOMCd\">Stargate</a>, DJ Ammo, and Benny Blanco. While the set yielded a handful of international hits, it stalled in the U.S. Although his sixth studio album, Full Frequency, topped the U.S. reggae chart in early 2014, it didn't make much of a splash in the pop mainstream. The effort spawned the singles \"Other Side of Love,\" \"Entertainment 2.0\" (featuring <a href=\"spotify:artist:5gCRApTajqwbnHHPbr2Fpi\">Juicy J</a>, <a href=\"spotify:artist:17lzZA2AlOHwCwFALHttmp\">2 Chainz</a>, and <a href=\"spotify:artist:0hCNtLu0JehylgoiP8L4Gh\">Nicki Minaj</a>), \"Turn It Up,\" and \"Want Dem All\" (featuring Konshens), which helped Paul score his fifth Grammy nomination for Best Reggae Album.\r\n\nIn the years that followed, Paul would appear on notable singles by <a href=\"spotify:artist:7qG3b048QCHVRO5Pv1T5lw\">Enrique Iglesias</a>, <a href=\"spotify:artist:738wLrAtLtCtFOLvQBXOXp\">Major Lazer</a>, and <a href=\"spotify:artist:2RdwBSPQiwcmiDo9kixcl8\">Pharrell Williams</a>, but it wasn't until 2016 that he would experience massive chart resurgence, appearing on hits by <a href=\"spotify:artist:5WUlDfRSoLAfcVSX1WnrxN\">Sia</a> (the Grammy-nominated \"Cheap Thrills\"), <a href=\"spotify:artist:3e7awlrlDSwF3iM0WBjGMp\">Little Mix</a> (\"Hair\"), <a href=\"spotify:artist:6MDME20pz9RveH9rEXvrOM\">Clean Bandit</a> (\"Rockabye\"), and <a href=\"spotify:artist:6M2wZ9GZgrQXHCFfjv46we\">Dua Lipa</a> (\"No Lie\"). After Paul signed a deal with <a href=\"spotify:search:label%3A%22Island+Records%22\">Island Records</a>, he returned to the studio to record his seventh album. The first single from the record, \"Mad Love\" with <a href=\"spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai\">David Guetta</a> and <a href=\"spotify:artist:4obzFoKoKRHIphyHzJ35G3\">Becky G</a>, arrived in early 2018. Mad Love: The Prequel was issued later that year and included collaborations with <a href=\"spotify:artist:5ZS223C6JyBfXasXxrRqOk\">Jhene Aiko</a>, <a href=\"spotify:artist:0X2BH1fck6amBIoJhDVmmJ\">Ellie Goulding</a>, <a href=\"spotify:artist:2ExGrw6XpbtUAJHTLtUXUD\">Stefflon Don</a>, <a href=\"spotify:artist:6oMuImdp5ZcFhWP0ESe6mG\">Migos</a>, <a href=\"spotify:artist:2jku7tDXc6XoB6MO2hFuqg\">Tory Lanez</a>, and more. Paul extended his prolific streak in 2019, pairing with <a href=\"spotify:artist:1vyhD5VmyZ7KMfW5gqLgo5\">J Balvin</a> on \"Contra la Pared\" and <a href=\"spotify:artist:7k9T7lZlHjRAM1bb0r9Rm3\">Wiley</a>, <a href=\"spotify:artist:2ExGrw6XpbtUAJHTLtUXUD\">Stefflon Don</a>, and <a href=\"spotify:artist:0Dc2rdPzleezxhvQhQbXuS\">Idris Elba</a> on \"Boasty.\" In early 2020, he and <a href=\"spotify:artist:4NHQUGzhtTLFvgF5SZesLK\">Tove Lo</a> collaborated on the single \"Calling on Me.\" More collaborative singles followed in 2021, including \"Dancing on Dangerous\" with <a href=\"spotify:artist:5rGrDvrLOV2VV8SCFVGWlj\">Imanbek</a> and <a href=\"spotify:artist:0haZhu4fFKt0Ag94kZDiz2\">Sofía Reyes</a>, \"Dynamite\" with <a href=\"spotify:artist:5WUlDfRSoLAfcVSX1WnrxN\">Sia</a>, and \"Up\" with <a href=\"spotify:artist:2w9zwq3AktTeYYMuhMjju8\">Inna</a>, all of which led up to the release of his eighth studio album, 2022's Scorcha. ~ Steve Huey & Neil Z. Yeung, Rovi",
+        "monthlyListeners": 30966941,
+        "id": "3Isy6kedDrgPYoTS1dazA9"
+      }
+    ],
+    "upcomingConcerts": [],
+    "color": "#4F6262",
+    "albums": [
+      {
+        "uri": "spotify:album:2XEW6KliuaZe3sFqeYz38u",
+        "imageUri": "https://i.scdn.co/image/ab67616d00001e022540e6775830268c8bcce26a",
+        "name": "Penthouse Flashback Series: Sean Paul, Spragga Benz and Johnny P",
+        "artistName": "Sean Paul"
+      },
+      {
+        "uri": "spotify:album:1aYcfMrpGIuPNZhDWMJcnV",
+        "imageUri": "https://i.scdn.co/image/ab67616d00001e0270a92ddbe10010f1c2f95da1",
+        "name": "Dutty Rock (20th Anniversary)",
+        "artistName": "Sean Paul"
+      },
+      {
+        "uri": "spotify:album:6PhA24O96EevdscPi01NTv",
+        "imageUri": "https://i.scdn.co/image/ab67616d00001e023fb926ef2ee89d2c6d64a050",
+        "name": "Live N Livin",
+        "artistName": "Sean Paul"
+      },
+      {
+        "uri": "spotify:album:1hVo8fqEJffd9IjV8gHjQ5",
+        "imageUri": "https://i.scdn.co/image/ab67616d00001e02b9618e39e1e2f2eab2cf71cd",
+        "name": "Scorcha",
+        "artistName": "Sean Paul"
+      },
+      {
+        "uri": "spotify:album:5xrOcCoO3jkXRjHQjfESM6",
+        "imageUri": "https://i.scdn.co/image/ab67616d00001e022d564195ed3dd7b70d64862c",
+        "name": "Mad Love The Prequel",
+        "artistName": "Sean Paul"
+      }
+    ],
+    "headerImageUri": "https://i.scdn.co/image/ab67618600001016ce22ef025112c42b3f3e4465",
+    "upcomingConcertsSource": "recommendations",
+    "userLocation": "",
+    "ticketAvailability": "UNKNOWN",
+    "ticketAvailabilityTranslated": ""
+  }

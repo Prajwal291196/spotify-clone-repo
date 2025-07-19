@@ -1,0 +1,649 @@
+{
+    "data": {
+      "album": {
+        "uri": "spotify:album:3IBcauSj5M2A6lTeffJzdv",
+        "name": "Kan",
+        "artists": {
+          "totalCount": 1,
+          "items": [
+            {
+              "uri": "spotify:artist:51DevdOxIJin6DB1FXJpD1",
+              "profile": {
+                "name": "UZI"
+              },
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebb048567c21062cef0bcf3621",
+                      "width": 640,
+                      "height": 640
+                    },
+                    {
+                      "url": "https://i.scdn.co/image/ab6761610000f178b048567c21062cef0bcf3621",
+                      "width": 160,
+                      "height": 160
+                    },
+                    {
+                      "url": "https://i.scdn.co/image/ab67616100005174b048567c21062cef0bcf3621",
+                      "width": 320,
+                      "height": 320
+                    }
+                  ]
+                }
+              },
+              "sharingInfo": {
+                "shareUrl": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1?si=HrChGWNiRYqLRs0cJ5ljHg"
+              }
+            }
+          ]
+        },
+        "coverArt": {
+          "extractedColors": {
+            "colorRaw": {
+              "hex": "#404040"
+            }
+          },
+          "sources": [
+            {
+              "url": "https://i.scdn.co/image/ab67616d00001e0267c738a703dc979f5c3c52ef",
+              "width": 300,
+              "height": 300
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000485167c738a703dc979f5c3c52ef",
+              "width": 64,
+              "height": 64
+            },
+            {
+              "url": "https://i.scdn.co/image/ab67616d0000b27367c738a703dc979f5c3c52ef",
+              "width": 640,
+              "height": 640
+            }
+          ]
+        },
+        "discs": {
+          "totalCount": 1,
+          "items": [
+            {
+              "number": 1,
+              "tracks": {
+                "totalCount": 10
+              }
+            }
+          ]
+        },
+        "tracks": {
+          "totalCount": 10,
+          "items": [
+            {
+              "track": {
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "duration": {
+                  "totalMilliseconds": 211016
+                }
+              }
+            },
+            {
+              "track": {
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "duration": {
+                  "totalMilliseconds": 185458
+                }
+              }
+            },
+            {
+              "track": {
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "duration": {
+                  "totalMilliseconds": 200000
+                }
+              }
+            },
+            {
+              "track": {
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "duration": {
+                  "totalMilliseconds": 243205
+                }
+              }
+            },
+            {
+              "track": {
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "duration": {
+                  "totalMilliseconds": 152301
+                }
+              }
+            },
+            {
+              "track": {
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "duration": {
+                  "totalMilliseconds": 171880
+                }
+              }
+            },
+            {
+              "track": {
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "duration": {
+                  "totalMilliseconds": 155010
+                }
+              }
+            },
+            {
+              "track": {
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "duration": {
+                  "totalMilliseconds": 223608
+                }
+              }
+            },
+            {
+              "track": {
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "duration": {
+                  "totalMilliseconds": 196682
+                }
+              }
+            },
+            {
+              "track": {
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "duration": {
+                  "totalMilliseconds": 192694
+                }
+              }
+            }
+          ]
+        },
+        "releases": {
+          "totalCount": 0,
+          "items": []
+        },
+        "type": "ALBUM",
+        "date": {
+          "isoString": "2021-03-19T00:00:00Z",
+          "precision": "DAY"
+        },
+        "playability": {
+          "playable": true,
+          "reason": "PLAYABLE"
+        },
+        "label": "M.O.B. Entertainment",
+        "copyright": {
+          "totalCount": 2,
+          "items": [
+            {
+              "type": "C",
+              "text": "2021 M.O.B Entertainment Associated Label Of Govinet"
+            },
+            {
+              "type": "P",
+              "text": "2021 M.O.B Entertainment Associated Label Of Govinet"
+            }
+          ]
+        },
+        "courtesyLine": "",
+        "saved": false,
+        "sharingInfo": {
+          "shareUrl": "https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv?si=pElGVfs5SY6XWm9TEAIq5Q",
+          "shareId": "pElGVfs5SY6XWm9TEAIq5Q"
+        },
+        "moreAlbumsByArtist": {
+          "items": [
+            {
+              "discography": {
+                "popularReleases": {
+                  "items": [
+                    {
+                      "releases": {
+                        "items": [
+                          {
+                            "id": "65dEDwbxXWzx93f6Vs5A0Q",
+                            "uri": "spotify:album:65dEDwbxXWzx93f6Vs5A0Q",
+                            "name": "YOUNGSTA",
+                            "date": {
+                              "year": 2023
+                            },
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02bbe7199bcd6db0d426318741",
+                                  "width": 300,
+                                  "height": 300
+                                },
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d00004851bbe7199bcd6db0d426318741",
+                                  "width": 64,
+                                  "height": 64
+                                },
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273bbe7199bcd6db0d426318741",
+                                  "width": 640,
+                                  "height": 640
+                                }
+                              ]
+                            },
+                            "playability": {
+                              "playable": true,
+                              "reason": "PLAYABLE"
+                            },
+                            "sharingInfo": {
+                              "shareId": "FS02icmeSSCG1SIPDHrgww",
+                              "shareUrl": "https://open.spotify.com/album/65dEDwbxXWzx93f6Vs5A0Q?si=FS02icmeSSCG1SIPDHrgww"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "releases": {
+                        "items": [
+                          {
+                            "id": "6nmFMrH9R3JpIgxtiJq3hY",
+                            "uri": "spotify:album:6nmFMrH9R3JpIgxtiJq3hY",
+                            "name": "EL CHAVO",
+                            "date": {
+                              "year": 2022
+                            },
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d00001e0249fbfede365b32ce524eec19",
+                                  "width": 300,
+                                  "height": 300
+                                },
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d0000485149fbfede365b32ce524eec19",
+                                  "width": 64,
+                                  "height": 64
+                                },
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d0000b27349fbfede365b32ce524eec19",
+                                  "width": 640,
+                                  "height": 640
+                                }
+                              ]
+                            },
+                            "playability": {
+                              "playable": true,
+                              "reason": "PLAYABLE"
+                            },
+                            "sharingInfo": {
+                              "shareId": "Ba4W2fxZRhO6ML2yAQVGgg",
+                              "shareUrl": "https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY?si=Ba4W2fxZRhO6ML2yAQVGgg"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "releases": {
+                        "items": [
+                          {
+                            "id": "3IBcauSj5M2A6lTeffJzdv",
+                            "uri": "spotify:album:3IBcauSj5M2A6lTeffJzdv",
+                            "name": "Kan",
+                            "date": {
+                              "year": 2021
+                            },
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d00001e0267c738a703dc979f5c3c52ef",
+                                  "width": 300,
+                                  "height": 300
+                                },
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d0000485167c738a703dc979f5c3c52ef",
+                                  "width": 64,
+                                  "height": 64
+                                },
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d0000b27367c738a703dc979f5c3c52ef",
+                                  "width": 640,
+                                  "height": 640
+                                }
+                              ]
+                            },
+                            "playability": {
+                              "playable": true,
+                              "reason": "PLAYABLE"
+                            },
+                            "sharingInfo": {
+                              "shareId": "pElGVfs5SY6XWm9TEAIq5Q",
+                              "shareUrl": "https://open.spotify.com/album/3IBcauSj5M2A6lTeffJzdv?si=pElGVfs5SY6XWm9TEAIq5Q"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "releases": {
+                        "items": [
+                          {
+                            "id": "5XKLNkXQYdHPocjh5JkkIN",
+                            "uri": "spotify:album:5XKLNkXQYdHPocjh5JkkIN",
+                            "name": "Caney",
+                            "date": {
+                              "year": 2023
+                            },
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02363fa2101d5dbcf2dc9d0063",
+                                  "width": 300,
+                                  "height": 300
+                                },
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d00004851363fa2101d5dbcf2dc9d0063",
+                                  "width": 64,
+                                  "height": 64
+                                },
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273363fa2101d5dbcf2dc9d0063",
+                                  "width": 640,
+                                  "height": 640
+                                }
+                              ]
+                            },
+                            "playability": {
+                              "playable": true,
+                              "reason": "PLAYABLE"
+                            },
+                            "sharingInfo": {
+                              "shareId": "MjreyD4iSs-6E-Qi_t0lww",
+                              "shareUrl": "https://open.spotify.com/album/5XKLNkXQYdHPocjh5JkkIN?si=MjreyD4iSs-6E-Qi_t0lww"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "releases": {
+                        "items": [
+                          {
+                            "id": "3SLQnZNuEYI3UvqppW4oLd",
+                            "uri": "spotify:album:3SLQnZNuEYI3UvqppW4oLd",
+                            "name": "International",
+                            "date": {
+                              "year": 2023
+                            },
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d00001e020b03a17291d23df2b8020f95",
+                                  "width": 300,
+                                  "height": 300
+                                },
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d000048510b03a17291d23df2b8020f95",
+                                  "width": 64,
+                                  "height": 64
+                                },
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d0000b2730b03a17291d23df2b8020f95",
+                                  "width": 640,
+                                  "height": 640
+                                }
+                              ]
+                            },
+                            "playability": {
+                              "playable": true,
+                              "reason": "PLAYABLE"
+                            },
+                            "sharingInfo": {
+                              "shareId": "-kyfni_5Slekb1b8G77H4w",
+                              "shareUrl": "https://open.spotify.com/album/3SLQnZNuEYI3UvqppW4oLd?si=-kyfni_5Slekb1b8G77H4w"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "releases": {
+                        "items": [
+                          {
+                            "id": "3lnpZWsxtEX81AMYqE9jEv",
+                            "uri": "spotify:album:3lnpZWsxtEX81AMYqE9jEv",
+                            "name": "CINDY",
+                            "date": {
+                              "year": 2021
+                            },
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d00001e029babf58f21e52d2835493a44",
+                                  "width": 300,
+                                  "height": 300
+                                },
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d000048519babf58f21e52d2835493a44",
+                                  "width": 64,
+                                  "height": 64
+                                },
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d0000b2739babf58f21e52d2835493a44",
+                                  "width": 640,
+                                  "height": 640
+                                }
+                              ]
+                            },
+                            "playability": {
+                              "playable": true,
+                              "reason": "PLAYABLE"
+                            },
+                            "sharingInfo": {
+                              "shareId": "BwUxcSOzSBqlnPjFy03nPw",
+                              "shareUrl": "https://open.spotify.com/album/3lnpZWsxtEX81AMYqE9jEv?si=BwUxcSOzSBqlnPjFy03nPw"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "releases": {
+                        "items": [
+                          {
+                            "id": "24SMyN5zmpqjgtlnfbErTP",
+                            "uri": "spotify:album:24SMyN5zmpqjgtlnfbErTP",
+                            "name": "PAPARAZZI",
+                            "date": {
+                              "year": 2021
+                            },
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d00001e027e114c9fa018c5e104aad4dc",
+                                  "width": 300,
+                                  "height": 300
+                                },
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d000048517e114c9fa018c5e104aad4dc",
+                                  "width": 64,
+                                  "height": 64
+                                },
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d0000b2737e114c9fa018c5e104aad4dc",
+                                  "width": 640,
+                                  "height": 640
+                                }
+                              ]
+                            },
+                            "playability": {
+                              "playable": true,
+                              "reason": "PLAYABLE"
+                            },
+                            "sharingInfo": {
+                              "shareId": "OANpPxmIQBmyCbhYI83liQ",
+                              "shareUrl": "https://open.spotify.com/album/24SMyN5zmpqjgtlnfbErTP?si=OANpPxmIQBmyCbhYI83liQ"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "releases": {
+                        "items": [
+                          {
+                            "id": "2jCg9W89pwMWmawyBUTm3d",
+                            "uri": "spotify:album:2jCg9W89pwMWmawyBUTm3d",
+                            "name": "Paranoya",
+                            "date": {
+                              "year": 2020
+                            },
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02bb8696887be536014ab5ec62",
+                                  "width": 300,
+                                  "height": 300
+                                },
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d00004851bb8696887be536014ab5ec62",
+                                  "width": 64,
+                                  "height": 64
+                                },
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273bb8696887be536014ab5ec62",
+                                  "width": 640,
+                                  "height": 640
+                                }
+                              ]
+                            },
+                            "playability": {
+                              "playable": true,
+                              "reason": "PLAYABLE"
+                            },
+                            "sharingInfo": {
+                              "shareId": "5u1vwpzZTd2lKgS76ngvCQ",
+                              "shareUrl": "https://open.spotify.com/album/2jCg9W89pwMWmawyBUTm3d?si=5u1vwpzZTd2lKgS76ngvCQ"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "releases": {
+                        "items": [
+                          {
+                            "id": "3HPYQBXJg7qGD51sBOfqRm",
+                            "uri": "spotify:album:3HPYQBXJg7qGD51sBOfqRm",
+                            "name": "Favela",
+                            "date": {
+                              "year": 2019
+                            },
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02f7929055d263700835d2dccf",
+                                  "width": 300,
+                                  "height": 300
+                                },
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d00004851f7929055d263700835d2dccf",
+                                  "width": 64,
+                                  "height": 64
+                                },
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273f7929055d263700835d2dccf",
+                                  "width": 640,
+                                  "height": 640
+                                }
+                              ]
+                            },
+                            "playability": {
+                              "playable": true,
+                              "reason": "PLAYABLE"
+                            },
+                            "sharingInfo": {
+                              "shareId": "k7T6IWb5R269yfEOOjH2Fg",
+                              "shareUrl": "https://open.spotify.com/album/3HPYQBXJg7qGD51sBOfqRm?si=k7T6IWb5R269yfEOOjH2Fg"
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "releases": {
+                        "items": [
+                          {
+                            "id": "604LjoILfRCmhYuLCFvel7",
+                            "uri": "spotify:album:604LjoILfRCmhYuLCFvel7",
+                            "name": "ARASAN DA",
+                            "date": {
+                              "year": 2022
+                            },
+                            "coverArt": {
+                              "sources": [
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d00001e02e2161dffafcd309995527ced",
+                                  "width": 300,
+                                  "height": 300
+                                },
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d00004851e2161dffafcd309995527ced",
+                                  "width": 64,
+                                  "height": 64
+                                },
+                                {
+                                  "url": "https://i.scdn.co/image/ab67616d0000b273e2161dffafcd309995527ced",
+                                  "width": 640,
+                                  "height": 640
+                                }
+                              ]
+                            },
+                            "playability": {
+                              "playable": true,
+                              "reason": "PLAYABLE"
+                            },
+                            "sharingInfo": {
+                              "shareId": "VynTQxTeRKS1gBMOyMH62A",
+                              "shareUrl": "https://open.spotify.com/album/604LjoILfRCmhYuLCFvel7?si=VynTQxTeRKS1gBMOyMH62A"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "extensions": []
+  }

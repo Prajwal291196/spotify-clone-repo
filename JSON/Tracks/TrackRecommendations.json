@@ -1,0 +1,9 @@
+{
+    "status": "missing_required_parameters",
+    "required_parameters": [
+      {
+        "key": "variables",
+        "type": "mixed"
+      }
+    ]
+  }

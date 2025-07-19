@@ -1,0 +1,689 @@
+{
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
+        },
+        "followers": {
+          "href": null,
+          "total": 381489
+        },
+        "genres": [
+          "romanian pop"
+        ],
+        "id": "0BmLNz4nSLfoWYW1cYsElL",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb750e2b92595d4e5b75f94873",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174750e2b92595d4e5b75f94873",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178750e2b92595d4e5b75f94873",
+            "width": 160
+          }
+        ],
+        "name": "Alexandra Stan",
+        "popularity": 58,
+        "type": "artist",
+        "uri": "spotify:artist:0BmLNz4nSLfoWYW1cYsElL"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK"
+        },
+        "followers": {
+          "href": null,
+          "total": 185452
+        },
+        "genres": [
+          "classic disco polo",
+          "romanian house",
+          "romanian pop"
+        ],
+        "id": "57Pw3FSi1qi2fOY4wKOKjK",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5ebe9b9fbdd998a20f9d3d28068",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174e9b9fbdd998a20f9d3d28068",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178e9b9fbdd998a20f9d3d28068",
+            "width": 160
+          }
+        ],
+        "name": "Akcent",
+        "popularity": 48,
+        "type": "artist",
+        "uri": "spotify:artist:57Pw3FSi1qi2fOY4wKOKjK"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT"
+        },
+        "followers": {
+          "href": null,
+          "total": 231779
+        },
+        "genres": [
+          "romanian pop"
+        ],
+        "id": "6RQDTlies3nrNDJwXvbBZT",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb1c81fe3a4d4ad7ce968d1349",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab676161000051741c81fe3a4d4ad7ce968d1349",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f1781c81fe3a4d4ad7ce968d1349",
+            "width": 160
+          }
+        ],
+        "name": "Otilia",
+        "popularity": 48,
+        "type": "artist",
+        "uri": "spotify:artist:6RQDTlies3nrNDJwXvbBZT"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn"
+        },
+        "followers": {
+          "href": null,
+          "total": 138543
+        },
+        "genres": [
+          "romanian pop"
+        ],
+        "id": "4TLzMoEaUDkcAfIlY3Xhxn",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5ebd42df33b004a1fbb03bd9620",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174d42df33b004a1fbb03bd9620",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178d42df33b004a1fbb03bd9620",
+            "width": 160
+          }
+        ],
+        "name": "Antonia",
+        "popularity": 46,
+        "type": "artist",
+        "uri": "spotify:artist:4TLzMoEaUDkcAfIlY3Xhxn"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+        },
+        "followers": {
+          "href": null,
+          "total": 240430
+        },
+        "genres": [
+          "romanian house",
+          "romanian pop"
+        ],
+        "id": "6XwwFnewNgWp81MYMK8zLq",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb877f1dbdef641d7e31c90d4c",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174877f1dbdef641d7e31c90d4c",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178877f1dbdef641d7e31c90d4c",
+            "width": 160
+          }
+        ],
+        "name": "Edward Maya",
+        "popularity": 61,
+        "type": "artist",
+        "uri": "spotify:artist:6XwwFnewNgWp81MYMK8zLq"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4"
+        },
+        "followers": {
+          "href": null,
+          "total": 81188
+        },
+        "genres": [
+          "romanian pop"
+        ],
+        "id": "2b01rwtcqW5LyfVBMzIFQ4",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5ebd7fc46d6b21a51bcb57e55eb",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174d7fc46d6b21a51bcb57e55eb",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178d7fc46d6b21a51bcb57e55eb",
+            "width": 160
+          }
+        ],
+        "name": "Kate Linn",
+        "popularity": 42,
+        "type": "artist",
+        "uri": "spotify:artist:2b01rwtcqW5LyfVBMzIFQ4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2Rum2rwDio2My0Md24m3Oa"
+        },
+        "followers": {
+          "href": null,
+          "total": 115272
+        },
+        "genres": [
+          "romanian pop"
+        ],
+        "id": "2Rum2rwDio2My0Md24m3Oa",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb5528742b7e1ca953de6ac2e9",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab676161000051745528742b7e1ca953de6ac2e9",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f1785528742b7e1ca953de6ac2e9",
+            "width": 160
+          }
+        ],
+        "name": "Fly Project",
+        "popularity": 52,
+        "type": "artist",
+        "uri": "spotify:artist:2Rum2rwDio2My0Md24m3Oa"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1oiZoULxUJDYGOKMgVefP4"
+        },
+        "followers": {
+          "href": null,
+          "total": 51726
+        },
+        "genres": [
+          "europop",
+          "romanian pop"
+        ],
+        "id": "1oiZoULxUJDYGOKMgVefP4",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb2a7ed9042a0122efcc29cccc",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab676161000051742a7ed9042a0122efcc29cccc",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f1782a7ed9042a0122efcc29cccc",
+            "width": 160
+          }
+        ],
+        "name": "Morandi",
+        "popularity": 42,
+        "type": "artist",
+        "uri": "spotify:artist:1oiZoULxUJDYGOKMgVefP4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3ZASW3RrHBbSRkNLjOrAFF"
+        },
+        "followers": {
+          "href": null,
+          "total": 42896
+        },
+        "genres": [
+          "romanian house",
+          "romanian pop"
+        ],
+        "id": "3ZASW3RrHBbSRkNLjOrAFF",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb5985f3c672438221b2d6d663",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab676161000051745985f3c672438221b2d6d663",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f1785985f3c672438221b2d6d663",
+            "width": 160
+          }
+        ],
+        "name": "Sasha Lopez",
+        "popularity": 45,
+        "type": "artist",
+        "uri": "spotify:artist:3ZASW3RrHBbSRkNLjOrAFF"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0rDSGIC4lIxx1zc0eGJY42"
+        },
+        "followers": {
+          "href": null,
+          "total": 61834
+        },
+        "genres": [
+          "romanian pop"
+        ],
+        "id": "0rDSGIC4lIxx1zc0eGJY42",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb8452cd1fb677d5a27e7185d2",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab676161000051748452cd1fb677d5a27e7185d2",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f1788452cd1fb677d5a27e7185d2",
+            "width": 160
+          }
+        ],
+        "name": "Dj Sava",
+        "popularity": 39,
+        "type": "artist",
+        "uri": "spotify:artist:0rDSGIC4lIxx1zc0eGJY42"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3amXI07XbX3gDkfrqMsLa9"
+        },
+        "followers": {
+          "href": null,
+          "total": 32120
+        },
+        "genres": [
+          "romanian house",
+          "romanian pop"
+        ],
+        "id": "3amXI07XbX3gDkfrqMsLa9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731fb8720436a7a77054fe3844",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021fb8720436a7a77054fe3844",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511fb8720436a7a77054fe3844",
+            "width": 64
+          }
+        ],
+        "name": "Radio Killer",
+        "popularity": 30,
+        "type": "artist",
+        "uri": "spotify:artist:3amXI07XbX3gDkfrqMsLa9"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1MRQV5l5n4ax84U6CQljVq"
+        },
+        "followers": {
+          "href": null,
+          "total": 69516
+        },
+        "genres": [
+          "classic romanian pop",
+          "romanian house",
+          "romanian pop"
+        ],
+        "id": "1MRQV5l5n4ax84U6CQljVq",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27334866e61dc5c8c9b9d1fba92",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0234866e61dc5c8c9b9d1fba92",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485134866e61dc5c8c9b9d1fba92",
+            "width": 64
+          }
+        ],
+        "name": "Andreea Banica",
+        "popularity": 33,
+        "type": "artist",
+        "uri": "spotify:artist:1MRQV5l5n4ax84U6CQljVq"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4oE7f7lNFkh0EbEZWEawBF"
+        },
+        "followers": {
+          "href": null,
+          "total": 19996
+        },
+        "genres": [],
+        "id": "4oE7f7lNFkh0EbEZWEawBF",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eb69be3df5d247c29d7e90283a",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab6761610000517469be3df5d247c29d7e90283a",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f17869be3df5d247c29d7e90283a",
+            "width": 160
+          }
+        ],
+        "name": "SICKOTOY",
+        "popularity": 45,
+        "type": "artist",
+        "uri": "spotify:artist:4oE7f7lNFkh0EbEZWEawBF"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1oqThNqOfhev071PvmOwWQ"
+        },
+        "followers": {
+          "href": null,
+          "total": 177342
+        },
+        "genres": [
+          "romanian house",
+          "romanian pop"
+        ],
+        "id": "1oqThNqOfhev071PvmOwWQ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eba8f9dce9103e30a3f9a3d781",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174a8f9dce9103e30a3f9a3d781",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178a8f9dce9103e30a3f9a3d781",
+            "width": 160
+          }
+        ],
+        "name": "DJ Project",
+        "popularity": 44,
+        "type": "artist",
+        "uri": "spotify:artist:1oqThNqOfhev071PvmOwWQ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Qz06Kvk8662UwwVMpjYet"
+        },
+        "followers": {
+          "href": null,
+          "total": 37146
+        },
+        "genres": [
+          "romanian house",
+          "romanian pop"
+        ],
+        "id": "0Qz06Kvk8662UwwVMpjYet",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5ebca9582227b7461dd357d861d",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174ca9582227b7461dd357d861d",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178ca9582227b7461dd357d861d",
+            "width": 160
+          }
+        ],
+        "name": "Tom Boxer",
+        "popularity": 34,
+        "type": "artist",
+        "uri": "spotify:artist:0Qz06Kvk8662UwwVMpjYet"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc"
+        },
+        "followers": {
+          "href": null,
+          "total": 154315
+        },
+        "genres": [
+          "romanian pop"
+        ],
+        "id": "5T0j6On1EthT2QVNXh8vqc",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5ebfba9f44397d3e18bc08e6849",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174fba9f44397d3e18bc08e6849",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178fba9f44397d3e18bc08e6849",
+            "width": 160
+          }
+        ],
+        "name": "Minelli",
+        "popularity": 53,
+        "type": "artist",
+        "uri": "spotify:artist:5T0j6On1EthT2QVNXh8vqc"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+        },
+        "followers": {
+          "href": null,
+          "total": 215180
+        },
+        "genres": [
+          "persian pop"
+        ],
+        "id": "7hQmAXAzWI6D350VTgkKTG",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5eba70ab4d7f3d5795603d2a4f8",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174a70ab4d7f3d5795603d2a4f8",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178a70ab4d7f3d5795603d2a4f8",
+            "width": 160
+          }
+        ],
+        "name": "Arash",
+        "popularity": 54,
+        "type": "artist",
+        "uri": "spotify:artist:7hQmAXAzWI6D350VTgkKTG"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0TmLIfQje5MdX2ovu4yQKz"
+        },
+        "followers": {
+          "href": null,
+          "total": 41845
+        },
+        "genres": [],
+        "id": "0TmLIfQje5MdX2ovu4yQKz",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5ebfa7715c354d9412ae378e45b",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174fa7715c354d9412ae378e45b",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178fa7715c354d9412ae378e45b",
+            "width": 160
+          }
+        ],
+        "name": "Monoir",
+        "popularity": 41,
+        "type": "artist",
+        "uri": "spotify:artist:0TmLIfQje5MdX2ovu4yQKz"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0RumimGfpHJk52huUuN3hq"
+        },
+        "followers": {
+          "href": null,
+          "total": 31761
+        },
+        "genres": [
+          "chalga",
+          "romanian pop"
+        ],
+        "id": "0RumimGfpHJk52huUuN3hq",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5ebbaa6a1488ba808488040783b",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174baa6a1488ba808488040783b",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178baa6a1488ba808488040783b",
+            "width": 160
+          }
+        ],
+        "name": "Elena",
+        "popularity": 25,
+        "type": "artist",
+        "uri": "spotify:artist:0RumimGfpHJk52huUuN3hq"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr"
+        },
+        "followers": {
+          "href": null,
+          "total": 334002
+        },
+        "genres": [],
+        "id": "37GUqxafAvAKGMZbXCUnmr",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab6761610000e5ebb1b3e9e016aaf323d53e2fcc",
+            "width": 640
+          },
+          {
+            "height": 320,
+            "url": "https://i.scdn.co/image/ab67616100005174b1b3e9e016aaf323d53e2fcc",
+            "width": 320
+          },
+          {
+            "height": 160,
+            "url": "https://i.scdn.co/image/ab6761610000f178b1b3e9e016aaf323d53e2fcc",
+            "width": 160
+          }
+        ],
+        "name": "Mohombi",
+        "popularity": 55,
+        "type": "artist",
+        "uri": "spotify:artist:37GUqxafAvAKGMZbXCUnmr"
+      }
+    ]
+  }

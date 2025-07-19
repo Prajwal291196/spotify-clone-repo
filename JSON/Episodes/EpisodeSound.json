@@ -1,0 +1,11 @@
+{
+    "url": [
+      "https://audio-ak-spotify-com.akamaized.net/audio/745185bab0cf1b9d9851c203ed8d596d75838ebd?__token__=exp=1702988094~hmac=5f4a313d16766f75e5a4d24dfdd07d77e271897e3675d056133e8e9cc3e082f3",
+      "https://audio-fa.scdn.co/audio/745185bab0cf1b9d9851c203ed8d596d75838ebd?1702988094_8jwbSUwCgL7wia9Xj-tmRkL-iQg8aZ-xNymZQQwKcmA=",
+      "https://audio-gm-fb.spotifycdn.com/audio/745185bab0cf1b9d9851c203ed8d596d75838ebd?Expires=1702988094~FullPath~hmac=w0yQFrmCpB74GNoFss-eF1TZFz_mmJ-_awI3ymstI3I="
+    ],
+    "format": "MP4_128",
+    "passthrough": "ALLOWED",
+    "passthroughUrl": "https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/15956c65-d574-4333-b587-afe001155a2c/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+    "fileId": "745185bab0cf1b9d9851c203ed8d596d75838ebd"
+  }

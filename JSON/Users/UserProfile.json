@@ -1,0 +1,97 @@
+{
+    "uri": "spotify:user:nocopyrightsounds",
+    "name": "NCS",
+    "image_url": "https://i.scdn.co/image/ab6775700000ee85c6e4ec3bf05af4e1ceee098e",
+    "followers_count": 560057,
+    "following_count": 21,
+    "public_playlists": [
+      {
+        "uri": "spotify:playlist:7sZbq8QGyMnhKPcLJvCUFD",
+        "name": "NCS Releases",
+        "image_url": "spotify:image:ab67706c0000da84c9d8288f341835a1c40f961d",
+        "followers_count": 752359,
+        "owner_name": "NCS",
+        "owner_uri": "spotify:user:nocopyrightsounds"
+      },
+      {
+        "uri": "spotify:playlist:5FuSBoolvor9fgR28WUNWq",
+        "name": "NoCopyrightSounds",
+        "image_url": "spotify:image:ab67706c0000da84fe6a73f6c99e109f6108a01b",
+        "followers_count": 115974,
+        "owner_name": "NCS",
+        "owner_uri": "spotify:user:nocopyrightsounds"
+      },
+      {
+        "uri": "spotify:playlist:2NdDBIGHUCu977yW5iKWQY",
+        "name": "NCS Top 100",
+        "image_url": "spotify:image:ab67706c0000da84049b9816c74774da9d39ac06",
+        "followers_count": 296624,
+        "owner_name": "NCS",
+        "owner_uri": "spotify:user:nocopyrightsounds"
+      },
+      {
+        "uri": "spotify:playlist:2BvXXHZ3Hx4pS5OacZMVKc",
+        "name": "Gaming Music 2023",
+        "image_url": "spotify:image:ab67706c0000da840f7f9e5bbffa36225a78f65a",
+        "followers_count": 138302,
+        "owner_name": "NCS",
+        "owner_uri": "spotify:user:nocopyrightsounds"
+      },
+      {
+        "uri": "spotify:playlist:3O7TvwLeCvuFHU36PsTJRZ",
+        "name": "NCS - New Music",
+        "image_url": "spotify:image:ab67706c0000da843d52fdc8450754e377d2c427",
+        "followers_count": 3757,
+        "owner_name": "NCS",
+        "owner_uri": "spotify:user:nocopyrightsounds"
+      },
+      {
+        "uri": "spotify:playlist:0NOjdgp96kOLpNRJdiouB1",
+        "name": "NCS - Drum and Bass",
+        "image_url": "spotify:image:ab67706c0000da84b6626cc87580ccaef59365db",
+        "followers_count": 19329,
+        "owner_name": "NCS",
+        "owner_uri": "spotify:user:nocopyrightsounds"
+      },
+      {
+        "uri": "spotify:playlist:7fIGJFhLqGXXK435PN0BEA",
+        "name": "NCS - Pop Music",
+        "image_url": "spotify:image:ab67706c0000da84836c6798ae5c30f2cf8b01f5",
+        "followers_count": 21753,
+        "owner_name": "NCS",
+        "owner_uri": "spotify:user:nocopyrightsounds"
+      },
+      {
+        "uri": "spotify:playlist:1i3ldFVvGYYVDvSGcy61f6",
+        "name": "NCS - Phonk, Drift & Brazilian Phonk",
+        "image_url": "spotify:image:ab67706c0000da84cb5e1799080edf63c4acef13",
+        "followers_count": 1320,
+        "owner_name": "NCS",
+        "owner_uri": "spotify:user:nocopyrightsounds"
+      },
+      {
+        "uri": "spotify:playlist:2G9WjCg5Fnhev0kVhSZMgN",
+        "name": "NCS - Future House",
+        "image_url": "spotify:image:ab67706c0000da846bcc42b7191ab9edb3a45295",
+        "followers_count": 1285,
+        "owner_name": "NCS",
+        "owner_uri": "spotify:user:nocopyrightsounds"
+      },
+      {
+        "uri": "spotify:playlist:4Hcwu4C3gPI67i2wz9UgwS",
+        "name": "NCS - Trap Music ",
+        "image_url": "spotify:image:ab67706c0000da84b296387c8a85e05c7e8b42cd",
+        "followers_count": 26422,
+        "owner_name": "NCS",
+        "owner_uri": "spotify:user:nocopyrightsounds"
+      }
+    ],
+    "total_public_playlists_count": 39,
+    "is_verified": true,
+    "report_abuse_disabled": true,
+    "has_spotify_name": true,
+    "has_spotify_image": true,
+    "color": 16085920,
+    "allow_follows": true,
+    "show_follows": true
+  }
