@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route} from  "react-router-dom";
 
 
 import Header from './Header'
-import YourLibrary from './YourLibrary'
+import YourLibrary from './YourLibrary.jsx'
 
 const HeaderAndLibrary = () => {
   return (
